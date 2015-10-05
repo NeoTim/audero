@@ -1,0 +1,10 @@
+a
+{
+   color: $guardsmanRed;
+   text-decoration: none;
+
+   &:hover
+   {
+      text-decoration: underline;
+   }
+}

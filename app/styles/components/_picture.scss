@@ -1,0 +1,27 @@
+.picture
+{
+   display: block;
+
+   @include respondTo(0, map-get($auderoBreakpoints, tablet) - 1)
+   {
+      float: none;
+      margin: auto;
+      text-align: center;
+   }
+
+   @include respondTo(tablet)
+   {
+      display: inline-block;
+   }
+
+   &,
+   & *
+   {
+      width: 100%;
+
+      @include respondTo(phablet)
+      {
+         width: auto;
+      }
+   }
+}

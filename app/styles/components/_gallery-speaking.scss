@@ -1,0 +1,120 @@
+$arrowSize: 30px;
+
+.gallery-speaking
+{
+   position: relative;
+}
+
+.gallery-speaking__items
+{
+   font-size: 0;
+   overflow: auto;
+   scroll-behavior: smooth;
+   scroll-snap-points-x: repeat(50%);
+   scroll-snap-type: mandatory;
+   white-space: nowrap;
+
+   .js &
+   {
+      overflow: hidden;
+   }
+}
+
+.gallery-speaking__item
+{
+   display: inline-block;
+   position: relative;
+   vertical-align: top;
+   white-space: normal;
+   width: 100%;
+
+   @include respondTo(tablet)
+   {
+      width: 49.5%;
+   }
+
+   & + &
+   {
+      margin-left: 1%;
+
+      .js &
+      {
+         margin-left: 0;
+
+         @include respondTo(tablet)
+         {
+            margin-left: 1%;
+         }
+      }
+   }
+
+   img
+   {
+      width: 100%;
+   }
+}
+
+.gallery-speaking__arrow
+{
+   background-color: transparent;
+   border: none;
+   cursor: pointer;
+   display: block;
+   height: $arrowSize * 2;
+   padding: 0;
+   position: absolute;
+   top: 50%;
+   transform: translateY(-50%);
+   width: $arrowSize;
+   z-index: 1;
+
+   .no-js &
+   {
+      display: none;
+   }
+
+   // Hack for Firefox only
+   @-moz-document url-prefix()
+   {
+      body:not(.mouse-active) &:focus
+      {
+         border: 1px solid;
+         outline: none;
+      }
+   }
+
+   .no-csstransforms &
+   {
+      width: $arrowSize * 2;
+   }
+
+   &--left
+   {
+      left: 1em;
+
+      .csstransforms &
+      {
+         @include chevron($arrowSize, $arrowSize, 3px, left, $white);
+      }
+
+      .no-csstransforms &
+      {
+         @include triangle(left, $arrowSize, $white, 50%, -$arrowSize);
+      }
+   }
+
+   &--right
+   {
+      right: 1em;
+
+      .csstransforms &
+      {
+         @include chevron($arrowSize, $arrowSize, 3px, right, $white);
+      }
+
+      .no-csstransforms &
+      {
+         @include triangle(right, $arrowSize, $white, 50%, -$arrowSize);
+      }
+   }
+}

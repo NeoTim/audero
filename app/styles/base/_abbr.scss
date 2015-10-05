@@ -1,0 +1,20 @@
+abbr[title]
+{
+   border-bottom: none;
+
+   @include respondTo(desktop)
+   {
+      border-bottom: 1px $silverChalice dashed;
+      cursor: help;
+   }
+
+   &:after
+   {
+      content: " (" attr(title) ")";
+
+      @include respondTo(desktop)
+      {
+         content: "";
+      }
+   }
+}

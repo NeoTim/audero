@@ -1,0 +1,90 @@
+---
+title: Publications
+description: A list of articles written by Aurelio De Rosa about HTML, CSS, JavaScript, jQuery, PHP, and much more.
+controller: main
+action: publications
+---
+<main>
+   <article class="island belt">
+      <h2>Publications</h2>
+      <p>
+         I love to write, and if you've followed me, you know it. Since I started my professional career,
+         I've invested a lot of time in writing academic papers and technical articles. In this page, you can find
+         a list of my writings.
+      </p>
+   </article>
+   <article class="island belt">
+      <h3>Academic papers and presentations</h3>
+      <p>
+         During my years working at the University of Salerno, I've been involved in a number of academic projects
+         resulted in the publications of academic papers and presentations. So far, I've published
+         <b>{{length publications.papers}}</b> papers:
+      </p>
+
+      <ol class="papers">
+         {{#withSort publications.papers "date" dir="desc"}}
+            <li class="paper">
+               {{> paper paper=this}}
+            </li>
+         {{/withSort}}
+      </ol>
+   </article>
+   <article class="island belt">
+      <h3>Articles</h3>
+      <p>
+         When not busy in writing code, I love to share my knowledge by writing technical articles for leading networks,
+         such as <a href="http://www.sitepoint.com/author/aderosa/">SitePoint</a> and
+         <a href="http://tutsplus.com/authors/aurelio-de-rosa">TutsPlus</a>, and magazines, such as
+         <a href="http://www.creativebloq.com/net-magazine">Net Magazine</a> and
+         <a href="https://www.phparch.com/">php[architect]</a>.
+         To date, I've written
+         <a href="#articles-count" id="articles-count-reference" class="footnote-reference"
+            aria-describedby="articles-footnotes">
+            <b>{{length publications.articles}}</b> articles</a>
+         on websites or magazines not owned by me:
+      </p>
+
+      <label class="js-articles-filter articles__filter hidden">
+         Filter:
+         <select name="articles">
+            <option value="*">All</option>
+            <option value="css">CSS</option>
+            <option value="html">HTML</option>
+            <option value="html5-api">HTML5/JS APIs</option>
+            <option value="javascript">JavaScript</option>
+            <option value="jquery">jQuery</option>
+            <option value="php">PHP</option>
+         </select>
+      </label>
+
+      <ol class="grid articles">
+         {{#withSort publications.articles "date" dir="desc"}}
+            <li class="grid__item tablet--one-half desktop--one-third">
+               {{> article article=this}}
+            </li>
+         {{/withSort}}
+      </ol>
+
+      <div class="align-center">
+         <button class="js-button-show-more-articles button button--3d button--rounded button--primary hidden">
+            Show more
+         </button>
+         <button class="js-button-show-all-articles button button--3d button--rounded button--primary hidden">
+            Show all
+         </button>
+      </div>
+
+      <footer class="footnotes">
+         <h4 id="articles-footnotes">Footnotes</h4>
+         <ol>
+            <li class="footnote" id="articles-count" tabindex="0">
+               Series of articles are counted as one.
+               <a href="#articles-count-reference">
+                  &#9656;
+                  <span class="visually-hidden">Go back to the content</span>
+               </a>
+            </li>
+         </ol>
+      </footer>
+   </article>
+</main>

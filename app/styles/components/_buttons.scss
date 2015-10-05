@@ -1,0 +1,100 @@
+@mixin button3dEffect($colorStart, $colorEnd)
+{
+   box-shadow: 0 9px 0 $colorStart, 0 9px 25px $colorEnd;
+
+   &:active
+   {
+      box-shadow: 0 3px 0 $colorStart, 0 3px 6px $colorEnd;
+   }
+}
+
+.button
+{
+   border: none;
+   display: block;
+   margin: map-get($auderoSpacingUnits, normal) auto;
+   padding: map-get($auderoSpacingUnits, normal);
+   text-align: center;
+   text-decoration: none;
+
+   @include respondTo(phablet)
+   {
+      display: inline-block;
+   }
+
+   & + &
+   {
+      margin-top: map-get($auderoSpacingUnits, extraLarge);
+
+      @include respondTo(phablet)
+      {
+         margin-top: map-get($auderoSpacingUnits, normal);
+         margin-left: map-get($auderoSpacingUnits, normal);
+      }
+   }
+
+   &--rounded
+   {
+      border-radius: 8px;
+   }
+
+   &--alizarin-crimson,
+   &--primary
+   {
+      background-color: $alizarinCrimson;
+      border: 1px solid $alizarinCrimson;
+      color: $white;
+
+      &:focus,
+      &:hover,
+      &:visited
+      {
+         color: $white;
+      }
+   }
+
+   &--shark,
+   &--secondary
+   {
+      background-color: $shark;
+      border: 1px solid $shark;
+      color: $white;
+
+      &:focus,
+      &:hover,
+      &:visited
+      {
+         color: $white;
+      }
+   }
+
+   &--3d
+   {
+      padding-bottom: map-get($auderoSpacingUnits, extraSmall);
+      padding-top: map-get($auderoSpacingUnits, extraSmall);
+      transition: all 0.1s ease;
+
+      &:active
+      {
+         position: relative;
+         top: 5px;
+      }
+
+      &:focus,
+      &:hover,
+      &:visited
+      {
+         text-decoration: none;
+      }
+
+      &.button--primary
+      {
+         @include button3dEffect($thunderbird, $black);
+      }
+
+      &.button--secondary
+      {
+         @include button3dEffect($sharkDark, $black);
+      }
+   }
+}

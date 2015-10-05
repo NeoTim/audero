@@ -1,0 +1,51 @@
+.article
+{
+   counter-reset: footnotes;
+}
+
+.footnotes
+{
+   :target
+   {
+      background: $yellow;
+   }
+}
+
+.footnote-reference
+{
+   color: inherit;
+   counter-increment: footnotes;
+   cursor: default;
+   outline: none;
+
+   &,
+   &:hover
+   {
+      text-decoration: none;
+   }
+
+   &:focus
+   {
+      &:after
+      {
+         outline: thin dotted;
+      }
+   }
+
+   &:after
+   {
+      color: $blue;
+      content: "[" counter(footnotes) "]";
+      cursor: pointer;
+      display: inline-block;
+      font-size: map-get($auderoFontSizesRelatives, tiny);
+      margin-left: map-get($auderoSpacingUnits, tiny);
+      vertical-align: super;
+
+      &:hover,
+      &:focus
+      {
+         text-decoration: underline;
+      }
+   }
+}

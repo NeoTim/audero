@@ -1,0 +1,43 @@
+$mediaQuerySupport: true !default;
+$serveToMediaQueryMaxWidth: map-get($auderoBreakpoints, desktop);
+
+@mixin respondTo($minWidth, $maxWidth: "", $and: "")
+{
+   @if map-has-key($auderoBreakpoints, #{$minWidth})
+   {
+      $minWidth: map-get($auderoBreakpoints, #{$minWidth});
+   }
+   @if map-has-key($auderoBreakpoints, #{$maxWidth})
+   {
+      $maxWidth: map-get($auderoBreakpoints, #{$maxWidth});
+   }
+
+   @if $minWidth == null
+   {
+      @error "The specified value for $minWidth doesn't exist: #{$minWidth}";
+   }
+
+   @if $maxWidth == null
+   {
+      $maxWidth: "";
+   }
+
+   $mediaQuery: "only screen and (min-width: " + $minWidth + ")";
+   $maxWidthQuery: if($maxWidth == "", "", " and (max-width: " + $maxWidth + ")");
+   $and: if($and == "", "", " and " + $and);
+
+   @if $mediaQuerySupport
+   {
+      @media #{$mediaQuery + $maxWidthQuery + $and}
+      {
+         @content;
+      }
+   }
+   @else
+   {
+      @if $minWidth <= $serveToMediaQueryMaxWidth
+      {
+         @content;
+      }
+   }
+}

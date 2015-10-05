@@ -1,0 +1,12 @@
+*
+{
+   &:focus
+   {
+      outline: 3px solid $guardsmanRed;
+
+      .mouse-active &
+      {
+         outline: none;
+      }
+   }
+}

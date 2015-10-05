@@ -1,0 +1,27 @@
+---
+layout: app/views/layouts/master.hbs
+controller: projects
+---
+<nav class="js-projects-menu island projects-menu">
+   <div class="belt">
+      <button class="js-projects-menu-toggle button-reset projects-menu__toggle hidden float-right">
+         <span class="visually-hidden">Toggle projects menu</span>
+      </button>
+
+      <span class="projects-menu__label" id="projects-menu__label">Projects</span>
+
+      <ul class="js-projects-menu-items list-reset grid grid--full projects-menu__items" aria-labelledby="projects-menu__label">
+         {{#each projects}}
+            <li class="grid__item phablet--one-half tablet--one-third">
+               {{#contains url "http"}}
+                  <a class="projects-menu__link" href="{{url}}" target="_blank">{{title}}</a>
+               {{else}}
+                  <a class="projects-menu__link" href="{{url}}">{{title}}</a>
+               {{/contains}}
+            </li>
+         {{/each}}
+      </ul>
+   </div>
+</nav>
+
+{{> body}}

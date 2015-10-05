@@ -1,0 +1,18 @@
+{
+  "name": "Audero",
+  "version": "0.1.0",
+  "author": {
+    "name": "Aurelio De Rosa",
+    "email": "a.derosa@audero.it",
+    "web": "http://www.audero.it"
+  },
+  "description": "Aurelio De Rosa's website",
+  "private": true,
+  "dependencies": {
+    "joindin-js": "~0.4.0",
+    "modernizr": "~2.8.3"
+  },
+  "devDependencies": {
+    "html5shiv": "~3.7.3"
+  }
+}

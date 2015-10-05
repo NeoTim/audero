@@ -1,0 +1,19 @@
+body
+{
+   @include fontSize($auderoFontSizesBase);
+   font-family: $auderoFontFamilyBase;
+
+   &:before
+   {
+      content: "mobile";
+      display: none;
+
+      @each $key, $value in $auderoBreakpoints
+      {
+         @include respondTo($key)
+         {
+            content: quote($key);
+         }
+      }
+   }
+}

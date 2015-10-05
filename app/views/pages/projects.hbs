@@ -1,0 +1,28 @@
+---
+title: Projects
+description:
+---
+<main>
+   <section class="island belt">
+      <h2>Projects</h2>
+      <p>
+         In this page you can find a list of projects I've developed. They are <b>completely free</b> and most of them
+         are also released using an Open Source license.
+      </p>
+      <p>
+         Choose where you want to start, I hope you'll like what you'll see!
+      </p>
+
+      <ul>
+         {{#each projects}}
+            <li>
+               {{#contains url "http"}}
+                  <a href="{{url}}" target="_blank">{{title}}</a>
+               {{else}}
+                  <a href="{{url}}">{{title}}</a>
+               {{/contains}}
+            </li>
+         {{/each}}
+      </ul>
+   </section>
+</main>

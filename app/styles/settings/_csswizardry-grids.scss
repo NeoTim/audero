@@ -1,0 +1,8 @@
+$use-markup-fix: false;
+
+$breakpoints: (
+   phablet: "(min-width: " + map-get($auderoBreakpoints, phablet) + ")",
+   tablet: "(min-width: " + map-get($auderoBreakpoints, tablet) + ")",
+   desktop: "(min-width: " + map-get($auderoBreakpoints, desktop) + ")"
+);
+$breakpoint-has-widths: (phablet, tablet, desktop);

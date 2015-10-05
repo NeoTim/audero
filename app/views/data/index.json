@@ -1,0 +1,12 @@
+{
+   "magazines": {
+      "Net Magazine": "http://www.creativebloq.com/net-magazine",
+      "php[architect]": "https://www.phparch.com/",
+      "SitePoint": "http://www.sitepoint.com/author/aderosa/",
+      "TutsPlus": "http://tutsplus.com/authors/aurelio-de-rosa",
+      "Telerik": "http://developer.telerik.com/author/aderosa/",
+      "ModernWeb": "http://modernweb.com/authors/aurelio-de-rosa/",
+      "Web & PHP Magazine": "https://entwickler.de/webandphp/branching-out-with-twig-125722.html",
+      "Netorials": "http://www.netorials.com/tutorials/instructors/aurelioderosa/"
+   }
+}

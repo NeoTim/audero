@@ -1,0 +1,102 @@
+.menu
+{
+   @include clearfix();
+   background: $shark;
+   border-bottom: 1px solid $grainBrown;
+   font-family: $auderoFontFamilyGaramond;
+   width: 100%;
+
+   .js &
+   {
+      position: fixed;
+      top: 0;
+      z-index: map-get($auderoZLayers, menu);
+
+      @include respondTo(phablet)
+      {
+         position: static;
+      }
+   }
+
+   @include respondTo(phablet)
+   {
+      font-size: map-get($auderoFontSizes, large);
+   }
+
+   @include respondTo(tablet)
+   {
+      font-size: map-get($auderoFontSizes, extraLarge);
+   }
+}
+
+.menu__toggle
+{
+   margin: map-get($auderoSpacingUnits, extraSmall)
+           map-get($auderoSpacingUnits, normal)
+           map-get($auderoSpacingUnits, extraSmall)
+           0;
+   padding: map-get($auderoSpacingUnits, extraSmall);
+
+   @include respondTo(phablet)
+   {
+      @include hidden(false);
+   }
+}
+
+.menu__items
+{
+   @extend .list-reset;
+   @include clearfix();
+   clear: both;
+   overflow: hidden;
+
+   @include respondTo(tablet)
+   {
+      display: table;
+      table-layout: fixed;
+      text-align: center;
+      width: 100%;
+   }
+
+   li
+   {
+      display: block;
+
+      @include respondTo(phablet)
+      {
+         float: left;
+         width: 50%;
+      }
+
+      @include respondTo(tablet)
+      {
+         display: table-cell;
+         float: none;
+      }
+   }
+
+   a
+   {
+      border-bottom: 1px solid $silver;
+      color: $matrix;
+      display: block;
+      padding: map-get($auderoSpacingUnits, small);
+
+      @include respondTo(phablet)
+      {
+         border-bottom: none;
+      }
+
+      @include respondTo(tablet)
+      {
+         padding: map-get($auderoSpacingUnits, normal) 0;
+      }
+
+      &.active,
+      &:focus,
+      &:hover
+      {
+         color: $white;
+      }
+   }
+}

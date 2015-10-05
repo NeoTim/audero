@@ -1,0 +1,12 @@
+.joindin-talk-comment
+{
+   .rating-wrapper
+   {
+      float: none;
+
+      @include respondTo(phablet)
+      {
+         float: left;
+      }
+   }
+}

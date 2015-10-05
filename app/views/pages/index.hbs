@@ -1,0 +1,124 @@
+---
+title: Homepage
+description: The website of Aurelio De Rosa, a full-stack web developer, jQuery team member, speaker, and author of books.
+---
+<main>
+   <article class="island belt media">
+      <h2 class="visually-hidden">Biography</h2>
+      <img class="media__image picture" src="/images/aurelio-de-rosa.jpg" alt="Aurelio De Rosa" />
+      <p>
+         Hi there! My name is Aurelio De Rosa.
+      </p>
+      <p>
+         I'm a (full-stack) senior web developer, working at
+         <a href="http://digital-detox.co.uk/" target="_blank">Digital Detox</a>, with more than 5 years'
+         professional experience programming for the web using the
+         <abbr title="Windows Apache MySql PHP">WAMP</abbr> stack and HTML5, CSS3, Sass,
+         JavaScript, and PHP. I'm a member of the <a href="https://jquery.org/team/">jQuery team</a> and the
+         <a href="https://github.com/orgs/joindin/people">JoindIn team</a>, and an expert of JavaScript and HTML5
+         APIs. My interests also include web security, accessibility, performance, and SEO.
+      </p>
+      <p>
+         A significant part of my work and my experience is represented by the sharing of my knowledge.
+         When not busy in writing code, I'm a <a href="/publications">regular writer</a>,
+         <a href="/speaking">speaker</a>, <a href="/books">author of books</a>, and co-author of some academic
+         papers. I'm also the technical reviewer of several online courses for
+         <a href="https://learnable.com/">Learnable</a> and the book
+         <a href="http://www.amazon.com/HTML5-CSS3-World-Alexis-Goldstein/dp/0987467484">
+            <cite>HTML5 & CSS3 for the Real World, second edition</cite>
+         </a>.
+      </p>
+      <p>
+         Above all these things, I'm really passionate for everything related to the web (well, not
+         everything...sorry Java). In my spare time I love to read, experiment, learn, contribute to open source
+         projects, and have a few beers.
+      </p>
+      <p>
+         If you want to learn more about my work, you can browse the page of this website or
+         <a href="https://careers.stackoverflow.com/aurelioderosa" target="_blank">read my Curriculum Vitae</a>.
+      </p>
+   </article>
+   <section class="island belt">
+      <h2>Featured on</h2>
+      <ul>
+         {{#each index.magazines}}
+            <li>
+               <a href="{{this}}">{{@key}}</a>
+            </li>
+         {{/each}}
+      </ul>
+   </section>
+   <section class="island belt">
+      <h2>Testimonials</h2>
+      <ul class="list-reset testimonials">
+         <li>
+            <blockquote class="media pull-quote">
+               <img class="media__image pull-quote__image pull-quote__image--circle" src="/images/russ-weakly.jpg"
+                    alt="Photo of Russ Weakley" />
+               <p class="pull-quote__text">
+                  It is rare to find someone with such a detailed level of knowledge as Aurelio. I have had the pleasure
+                  of working with Aurelio on a wide range of online courses where Aurelio was the Technical Editor.
+                  Aurelio's extensive knowledge across all areas of front-end development is amazing. His technical
+                  feedback has always been meticulous and clear. Aurelio would be a asset to any team.
+               </p>
+               <footer>
+                  — <cite><a href="https://twitter.com/russmaxdesign">Russ Weakley</a></cite>,
+                  Front-end developer, <a href="http://maxdesign.com.au/">Max Design</a>
+               </footer>
+            </blockquote>
+         </li>
+         <li>
+            <blockquote class="media pull-quote">
+               <img class="media__image media__image--right pull-quote__image pull-quote__image--circle"
+                    src="/images/angela-molina.jpg" alt="Photo of Angela Molina" />
+               <p class="pull-quote__text">
+                  Aurelio is a very driven, motivated and reliable individual. He's attention to detail is second to none
+                  and has consistently proven to be a master of his craft as a programmer and editor. I highly recommend
+                  Aurelio for any future projects.
+               </p>
+               <footer>
+                  — <cite><a href="https://au.linkedin.com/in/angelamolina1/it">Angela Molina</a></cite>,
+                  Content Manager, <a href="http://learnable.com/">Learnable</a>
+               </footer>
+            </blockquote>
+         </li>
+         <li>
+            <blockquote class="media pull-quote">
+               <img class="media__image pull-quote__image pull-quote__image--circle" src="/images/colm-o-gairbhith.jpg"
+                    alt="Photo of Colm O' Gairbhith" />
+               <p class="pull-quote__text">
+                  Aurelio provided a top-notch code walkthrough to help me grasp the fundamentals of mobile app
+                  development with cordova. He definitely knows his stuff, and even better, knows how to transmit
+                  his knowledge.
+               </p>
+               <footer>
+                  — <cite><a href="https://fr.linkedin.com/in/carbontracking/it">Colm O' Gairbhith</a></cite>
+               </footer>
+            </blockquote>
+         </li>
+         <li>
+            <blockquote class="media pull-quote">
+               <img class="media__image media__image--right pull-quote__image pull-quote__image--circle"
+                    src="/images/michael-britt.jpg" alt="Photo of Michael Britt" />
+               <p class="pull-quote__text">
+                  I hired Aurelio on a freelance basis to develop a responsive mobile application for Android and iOS
+                  devices and I am very happy with the results. He delivered exactly what I asked for, on time and at a
+                  reasonable price. He knows his craft and is very personable to boot. I expect to hire him again in the
+                  future.
+               </p>
+               <footer>
+                  — <cite><a href="http://www.thepsychfiles.com/">Michael Britt</a></cite>,
+                  Owner, B & E Productions, LLC
+               </footer>
+            </blockquote>
+         </li>
+      </ul>
+   </section>
+   <article class="island belt">
+      <h2>Getting in touch</h2>
+      <p>
+         If you want to get in touch with me, send an email to <a href="mailto:a.derosa@audero.it">a.derosa@audero.it</a>
+         and I'll back to you as soon as possible.
+      </p>
+   </article>
+</main>

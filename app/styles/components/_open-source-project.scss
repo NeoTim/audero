@@ -1,0 +1,27 @@
+.open-source-project
+{
+   margin-bottom: 1em;
+}
+
+.open-source-project__title
+{
+   margin: 0;
+}
+
+.open-source-project__description
+{
+   color: $grey;
+   font-size: map-get($auderoFontSizesRelatives, small);
+   font-style: italic;
+   margin: map-get($auderoSpacingUnits, extraSmall) 0;
+
+   @include respondTo(tablet)
+   {
+      font-size: map-get($auderoFontSizesRelatives, extraSmall);
+   }
+}
+
+.open-source-project__contribution
+{
+   margin: 0;
+}

@@ -1,0 +1,41 @@
+.articles
+{
+   @include respondTo(desktop)
+   {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+   }
+
+   > li
+   {
+      margin-bottom: map-get($auderoSpacingUnits, small);
+
+      @include respondTo(desktop)
+      {
+         margin-bottom: map-get($auderoSpacingUnits, normal);
+      }
+   }
+}
+
+.articles__filter
+{
+   display: block;
+   margin-bottom: map-get($auderoSpacingUnits, normal);
+   vertical-align: top;
+
+   select
+   {
+      margin-left: map-get($auderoSpacingUnits, extraSmall);
+   }
+}
+
+.article
+{
+   font-size: map-get($auderoFontSizesRelatives, extraSmall);
+}
+
+.article__title
+{
+   margin: 0;
+}

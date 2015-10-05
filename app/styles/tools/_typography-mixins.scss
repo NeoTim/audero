@@ -1,0 +1,22 @@
+@mixin fontSize($fontSizes, $fontSizesBreakpoints: $auderoBreakpoints)
+{
+   @each $fontSizeBreakpoint, $fontSize in $fontSizes
+   {
+      @if $fontSizeBreakpoint == null
+      {
+         font-size: $fontSize;
+      }
+      @else
+      {
+         @if map-has-key($fontSizesBreakpoints, $fontSizeBreakpoint)
+         {
+            $fontSizeBreakpoint: map-get($fontSizesBreakpoints, $fontSizeBreakpoint);
+         }
+
+         @include respondTo($fontSizeBreakpoint)
+         {
+            font-size: $fontSize;
+         }
+      }
+   }
+}

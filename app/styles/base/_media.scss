@@ -1,0 +1,19 @@
+img,
+audio,
+video
+{
+   border: none;
+   max-width: 100%;
+}
+
+figure
+{
+   margin: 0;
+
+   > img,
+   > video,
+   > audio,
+   {
+      display: block;
+   }
+}

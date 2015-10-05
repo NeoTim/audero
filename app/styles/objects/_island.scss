@@ -1,0 +1,26 @@
+.island,
+.islet
+{
+   @extend %clearfix;
+   display: block;
+
+   > :first-child
+   {
+      margin-top: 0;
+   }
+
+   > :last-child
+   {
+      margin-bottom: 0;
+   }
+}
+
+.island
+{
+   padding: 1em;
+}
+
+.islet
+{
+   padding: 0.5em;
+}

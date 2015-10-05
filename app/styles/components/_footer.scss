@@ -1,0 +1,11 @@
+.footer
+{
+   background-color: $faluRed;
+   color: $white;
+   margin-top: map-get($auderoSpacingUnits, huge);
+
+   a
+   {
+      color: $white;
+   }
+}

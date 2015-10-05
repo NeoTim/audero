@@ -1,0 +1,9 @@
+$responsive: false;
+$mediaQuerySupport: false;
+
+@import "base";
+
+@each $name, $value in $auderoBreakpoints
+{
+   @include device-type('#{$name}--');
+}

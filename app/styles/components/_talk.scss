@@ -1,0 +1,12 @@
+.talk__slides
+{
+   @include respondTo(tablet)
+   {
+      width: 33%;
+   }
+
+   @include respondTo(desktop)
+   {
+      width: 40%;
+   }
+}
