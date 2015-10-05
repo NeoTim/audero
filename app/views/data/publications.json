@@ -945,6 +945,14 @@
          "website": "Netorials",
          "websiteUrl": "http://www.netorials.com",
          "date": "2015-03-18"
+      },
+      {
+         "title": "Battery API",
+         "tags": ["javascript", "html5-api", "net-magazine"],
+         "url": "http://www.creativebloq.com/netmag/issue-272-81516314",
+         "website": "Net Magazine",
+         "websiteUrl": "http://www.creativebloq.com/net-magazine",
+         "date": "2015-09-03"
       }
    ]
 }
