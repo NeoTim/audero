@@ -1,9 +1,9 @@
 {
-  "name": "setup",
-  "private": true,
-  "dependencies": {
-    "chai": "~1.8.0",
-    "mocha": "~1.14.0"
-  },
-  "devDependencies": {}
+   "name": "audero",
+   "private": true,
+   "dependencies": {
+      "mocha": "~2.3.3",
+      "chai": "~3.3.0"
+   },
+   "devDependencies": {}
 }
