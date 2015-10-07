@@ -35,7 +35,7 @@ module.exports = function (grunt) {
          },
          js: {
             files: ['<%= config.app %>/scripts/**/*.js'],
-            tasks: ['jscs', 'jshint', 'browserify']
+            tasks: ['jscs', 'jshint', 'browserify:dist']
          },
          jstest: {
             files: ['test/spec/**/*.js'],
@@ -399,13 +399,18 @@ module.exports = function (grunt) {
             files: {
                '<%= config.tmp %>/scripts/main.js': '<%= config.app %>/scripts/**/*.js'
             }
+         },
+         test: {
+            files: {
+               '<%= config.tmp %>/scripts/test.js': 'test/spec/*.js'
+            }
          }
       },
 
       concurrent: {
          server: [
             'jshint',
-            'browserify',
+            'browserify:dist',
             'scsslint',
             'sass',
             'assemble',
@@ -413,7 +418,7 @@ module.exports = function (grunt) {
          ],
          dist: [
             'jshint',
-            'browserify',
+            'browserify:dist',
             'scsslint',
             'sass',
             'responsive_images',
@@ -454,6 +459,7 @@ module.exports = function (grunt) {
 
       grunt.task.run([
          'connect:test',
+         'browserify:test',
          'mocha'
       ]);
    });
