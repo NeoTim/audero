@@ -11,6 +11,7 @@
             assert.isTrue(Utility.isPlainObject({
                a: 1, b: 2
             }), 'Non-empty object literal');
+            /* jshint -W010 */
             assert.isTrue(Utility.isPlainObject(new Object()), 'Empty object');
             assert.isTrue(Utility.isPlainObject(new Object({
                a: 1, b: 2
