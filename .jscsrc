@@ -32,6 +32,9 @@
    "disallowSpaceAfterPrefixUnaryOperators": true,
    "disallowSpaceBeforePostfixUnaryOperators": true,
    "disallowSpacesInCallExpression": true,
+   "disallowSpacesInFunction": {
+      "beforeOpeningRoundBrace": true
+   },
    "disallowSpacesInsideParentheses": true,
    "disallowTrailingComma": true,
    "disallowTrailingWhitespace": true,
