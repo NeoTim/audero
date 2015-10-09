@@ -65,6 +65,7 @@
       "default"
    ],
    "requireLineBreakAfterVariableAssignment": true,
+   "requireObjectKeysOnNewLine": true,
    "requireOperatorBeforeLineBreak": true,
    "requirePaddingNewLineAfterVariableDeclaration": true,
    "requirePaddingNewLinesAfterBlocks": {
