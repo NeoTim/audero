@@ -38,5 +38,110 @@
             assert.isFalse(Utility.isPlainObject(new Car()), 'Custom object');
          });
       });
+
+      describe('extend', function() {
+         it('should give precedence to the later objects', function() {
+            assert.deepEqual(
+               Utility.extend({
+                  a: 1,
+                  b: 2
+               }, {
+                  a: 3
+               }),
+               {
+                  a: 3,
+                  b: 2
+               },
+               'One source'
+            );
+            assert.deepEqual(
+               Utility.extend({
+                  a: 1,
+                  b: true,
+                  c: false
+               }, {
+                  a: 2,
+                  c: [1, 2],
+                  d: 4
+               }, {
+                  a: 'hello',
+                  d: null,
+                  e: 6
+               }),
+               {
+                  a: 'hello',
+                  b: true,
+                  c: [1, 2],
+                  d: null,
+                  e: 6
+               },
+               'Multiple sources'
+            );
+         });
+
+         it('should concatenate properties containing arrays', function() {
+            assert.deepEqual(
+               Utility.extend({
+                  a: [1, 2]
+               }, {
+                  a: [1, 4, 5]
+               }, {
+                  a: [6, 2, 1]
+               }),
+               {
+                  a: [
+                     1,
+                     2,
+                     1,
+                     4,
+                     5,
+                     6,
+                     2,
+                     1
+                  ]
+               }
+            );
+         });
+
+         it('should merge properties of nested objects', function() {
+            assert.deepEqual(
+               Utility.extend({
+                  a: {
+                     a: true
+                  },
+                  b: {
+                     a: 3,
+                     c: {
+                        a: 'hello'
+                     }
+                  }
+               }, {
+                  a: {
+                     b: false
+                  },
+                  b: {
+                     b: null,
+                     c: {
+                        b: true
+                     }
+                  }
+               }),
+               {
+                  a: {
+                     a: true,
+                     b: false
+                  },
+                  b: {
+                     a: 3,
+                     b: false,
+                     c: {
+                        a: 'hello',
+                        b: true
+                     }
+                  }
+               }
+            );
+         });
+      });
    });
 })();
