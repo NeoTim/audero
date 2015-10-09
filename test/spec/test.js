@@ -9,12 +9,14 @@
          it('should return true for object literals and object instances', function() {
             assert.isTrue(Utility.isPlainObject({}), 'Empty object literal');
             assert.isTrue(Utility.isPlainObject({
-               a: 1, b: 2
+               a: 1,
+               b: 2
             }), 'Non-empty object literal');
             /* jshint -W010 */
             assert.isTrue(Utility.isPlainObject(new Object()), 'Empty object');
             assert.isTrue(Utility.isPlainObject(new Object({
-               a: 1, b: 2
+               a: 1,
+               b: 2
             })), 'Non-empty object');
          });
 
