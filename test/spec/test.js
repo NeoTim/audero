@@ -1,5 +1,5 @@
 /* global describe, it, assert */
-(function () {
+(function() {
    'use strict';
 
    describe('Utility', function() {

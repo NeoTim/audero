@@ -18,7 +18,7 @@ function bindEvents(speakingGallery) {
    speakingGallery.previousButton.addEventListener('click', speakingGallery.showPreviousImage.bind(speakingGallery));
    speakingGallery.nextButton.addEventListener('click', speakingGallery.showNextImage.bind(speakingGallery));
 
-   window.addEventListener('resize', function () {
+   window.addEventListener('resize', function() {
       speakingGallery.showImage(speakingGallery.currentIndex);
    });
 }

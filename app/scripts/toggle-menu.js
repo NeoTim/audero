@@ -30,7 +30,7 @@ function showMenuAnimated(toggleMenu) {
 
    toggleMenu.menu.style.height = 0;
 
-   var timerId = setInterval(function () {
+   var timerId = setInterval(function() {
       toggleMenu.menu.style.height = Math.min(toggleMenu.menu.offsetHeight + step, menuHeight) + 'px';
 
       if (toggleMenu.menu.offsetHeight === menuHeight) {
@@ -49,7 +49,7 @@ function hideMenuAnimated(toggleMenu) {
    var menuHeight = toggleMenu.menu.offsetHeight;
    var step = menuHeight / toggleMenu.settings.animationDuration * toggleMenu.settings.animationStep;
 
-   var timerId = setInterval(function () {
+   var timerId = setInterval(function() {
       toggleMenu.menu.style.height = Math.max(toggleMenu.menu.offsetHeight - step, 0) + 'px';
 
       if (toggleMenu.menu.offsetHeight === 0) {
@@ -130,7 +130,7 @@ function ToggleMenu(menu, toggle, options) {
 /**
  * Initializes the module
  */
-ToggleMenu.prototype.init = function () {
+ToggleMenu.prototype.init = function() {
    onResize(this);
 
    bindEvents(this);
