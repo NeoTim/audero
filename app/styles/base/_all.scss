@@ -5,6 +5,8 @@
    &:after
    {
       box-sizing: inherit;
+      hyphens: auto;
+      overflow-wrap: break-word;
    }
 
    &:focus
