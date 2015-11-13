@@ -6,6 +6,16 @@
    font-family: $auderoFontFamilyGaramond;
    width: 100%;
 
+   @include respondTo(phablet)
+   {
+      font-size: map-get($auderoFontSizes, large);
+   }
+
+   @include respondTo(tablet)
+   {
+      font-size: map-get($auderoFontSizes, extraLarge);
+   }
+
    .js &
    {
       position: fixed;
@@ -16,16 +26,6 @@
       {
          position: static;
       }
-   }
-
-   @include respondTo(phablet)
-   {
-      font-size: map-get($auderoFontSizes, large);
-   }
-
-   @include respondTo(tablet)
-   {
-      font-size: map-get($auderoFontSizes, extraLarge);
    }
 }
 
