@@ -33,7 +33,7 @@
     "grunt-filerev": "^2.3.1",
     "grunt-jscs": "^2.1.0",
     "grunt-mocha": "^0.4.13",
-    "grunt-modernizr": "^0.6.1",
+    "grunt-modernizr": "^1.0.1",
     "grunt-newer": "^1.1.1",
     "grunt-postcss": "^0.6.0",
     "grunt-responsive-images": "^0.1.6",
