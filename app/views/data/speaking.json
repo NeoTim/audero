@@ -1,10 +1,31 @@
 {
    "talks": [
       {
+         "title": "Improve the style and quality of your project. Automatically!",
+         "description": "<p>When working in a team, you deal with people at different levels, from juniors to seniors. If you're the lead of the project, it's really hard to have all the developers involved following the same code conventions and having them writing the same high quality code you wish. But that's not their fault and nobody has to be blamed. Everyone has been there at some point in his or her career, and unless you want to go crazy, you can't review every line of code of the project.</p><p>In this talk, I'll discuss some tools that can help you in automatically checking the code style and quality of the HTML, CSS, Sass, and JavaScript of your team to improve the project without slowing anyone down.</p>",
+         "speakerdeckId": "89b269e0502144be937c23a81989975d",
+         "given-at": [
+            {
+               "name": "Topconf Tallinn 2015",
+               "website": "http://topconf.com/tallinn-2015/",
+               "location": "Tallinn (Estonia)",
+               "date": "2015-11-18",
+               "slidesUrl": "https://speakerdeck.com/aurelioderosa/improve-the-style-and-quality-of-your-project-automatically-topconf-tallinn-2015"
+            }
+         ]
+      },
+      {
          "title": "Talking and listening to web pages",
          "description": "<p>As web developers, our job is to build nice, fast, and reliable websites, web apps, or web services. But our role isn't limited to this. We have to build these products not only for our ideal users but for a range of people as wide as possible. Today's browsers help us in achieving this goal providing APIs created with this scope in mind. One of these APIs is the Web Speech API that provides speech input and text-to-speech output features in a web browser.</p><p>In this talk you'll learn what the Web Speech API is and how it can drastically improve the way users, especially those with disabilities, perform tasks in your web pages.</p>",
-         "speakerdeckId": "3338a46a7dce4993b174a5f62573c9d6",
+         "speakerdeckId": "fd0d28b591974e9d9a7f461e74877264",
          "given-at": [
+            {
+               "name": "Topconf Tallinn 2015",
+               "website": "http://topconf.com/tallinn-2015/",
+               "location": "Tallinn (Estonia)",
+               "date": "2015-11-18",
+               "slidesUrl": "https://speakerdeck.com/aurelioderosa/talking-and-listening-to-web-pages-topconf-tallinn-2015"
+            },
             {
                "name": "jsDay 2015",
                "website": "http://jsday.it/",
@@ -93,20 +114,5 @@
          ]
       }
    ],
-   "upcoming-events": [
-      {
-         "talk": "Improve the style and quality of your project. Automatically!",
-         "conference": "Topconf Tallinn 2015",
-         "website": "http://topconf.com/tallinn-2015/",
-         "location": "Tallinn (Estonia)",
-         "date": "2015-11-18"
-      },
-      {
-         "talk": "Talking and listening to web pages",
-         "conference": "Topconf Tallinn 2015",
-         "website": "http://topconf.com/tallinn-2015/",
-         "location": "Tallinn (Estonia)",
-         "date": "2015-11-18"
-      }
-   ]
+   "upcoming-events": []
 }
