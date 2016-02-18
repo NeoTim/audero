@@ -9,7 +9,7 @@
   "description": "Aurelio De Rosa's website",
   "private": true,
   "dependencies": {
-    "joindin-js": "~0.4.0",
+    "joindin-js": "~0.5.0",
     "modernizr": "~2.8.3"
   },
   "devDependencies": {
