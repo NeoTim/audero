@@ -22,6 +22,7 @@ function init() {
 }
 
 function speaking() {
+   var JoindIn = require('joindin-js');
    var GallerySpeaking = require('./gallery-speaking');
    var galleryElement = document.querySelector('.js-gallery-speaking');
    var gallerySpeaking = new GallerySpeaking({
@@ -31,6 +32,7 @@ function speaking() {
    });
 
    gallerySpeaking.init();
+   JoindIn.init();
 }
 
 function publications() {
