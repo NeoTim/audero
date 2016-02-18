@@ -267,7 +267,7 @@ module.exports = function (grunt) {
       wiredep: {
          app: {
             options: {
-               exclude: [/html5shiv/]
+               exclude: [/html5shiv/, /joindin.js/]
             },
             ignorePath: /(\.\.\/){1,2}/,
             src: ['<%= config.app %>/views/layouts/*.hbs']
