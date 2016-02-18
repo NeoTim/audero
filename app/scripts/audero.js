@@ -6,7 +6,6 @@ function addMouseActiveClass() {
 }
 
 function init() {
-   var attachFastClick = require('fastclick');
    var ToggleMenu = require('./toggle-menu');
    var menuElement = document.querySelector('.js-menu');
    var mainMenu = new ToggleMenu(
@@ -20,7 +19,6 @@ function init() {
 
    document.body.addEventListener('mousemove', addMouseActiveClass);
    mainMenu.init();
-   attachFastClick(document.body);
 }
 
 function speaking() {
