@@ -12,20 +12,16 @@
       "url": "/projects/php-libraries"
    },
    {
+      "title": "JavaScript libraries",
+      "url": "/projects/javascript-libraries"
+   },
+   {
       "title": "HTML5 API demos",
       "url": "https://github.com/AurelioDeRosa/HTML5-API-demos"
    },
    {
       "title": "ConfAgenda",
       "url": "http://confagenda.audero.it"
-   },
-   {
-      "title": "JoindIn.js",
-      "url": "https://github.com/joindin/JoindIn.js"
-   },
-   {
-      "title": "Saveba.js",
-      "url": "https://github.com/AurelioDeRosa/Saveba.js"
    },
    {
       "title": "UFES",
