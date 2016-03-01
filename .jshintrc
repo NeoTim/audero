@@ -7,7 +7,6 @@
    "funcscope": false,
    "futurehostile": true,
    "globals": [],
-   "globalstrict": true,
    "iterator": false,
    "latedef": true,
    "maxcomplexity": 6,
