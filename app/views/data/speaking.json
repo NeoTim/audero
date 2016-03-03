@@ -10,7 +10,8 @@
                "website": "http://topconf.com/tallinn-2015/",
                "location": "Tallinn (Estonia)",
                "date": "2015-11-18",
-               "slidesUrl": "https://speakerdeck.com/aurelioderosa/improve-the-style-and-quality-of-your-project-automatically-topconf-tallinn-2015"
+               "slidesUrl": "https://speakerdeck.com/aurelioderosa/improve-the-style-and-quality-of-your-project-automatically-topconf-tallinn-2015",
+               "videoUrl": "https://www.youtube.com/watch?v=CFGKAJaweiM"
             }
          ]
       },
@@ -24,7 +25,8 @@
                "website": "http://topconf.com/tallinn-2015/",
                "location": "Tallinn (Estonia)",
                "date": "2015-11-18",
-               "slidesUrl": "https://speakerdeck.com/aurelioderosa/talking-and-listening-to-web-pages-topconf-tallinn-2015"
+               "slidesUrl": "https://speakerdeck.com/aurelioderosa/talking-and-listening-to-web-pages-topconf-tallinn-2015",
+               "videoUrl": "https://www.youtube.com/watch?v=deiA9JeZk3E"
             },
             {
                "name": "jsDay 2015",
