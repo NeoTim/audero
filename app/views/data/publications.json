@@ -953,6 +953,14 @@
          "website": "Net Magazine",
          "websiteUrl": "http://www.creativebloq.com/net-magazine",
          "date": "2015-09-03"
+      },
+      {
+         "title": "An Introduction to jQuery's Deferred Objects",
+         "tags": ["javascript", "jquery", "deferred", "sitepoint"],
+         "url": "http://www.sitepoint.com/introduction-jquery-deferred-objects/",
+         "website": "SitePoint",
+         "websiteUrl": "http://www.sitepoint.com",
+         "date": "2016-03-16"
       }
    ]
 }
