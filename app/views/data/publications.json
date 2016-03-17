@@ -955,6 +955,14 @@
          "date": "2015-09-03"
       },
       {
+         "title": "What's New in jQuery 3",
+         "tags": ["javascript", "jquery", "jquery3", "sitepoint"],
+         "url": "http://developer.telerik.com/featured/whats-new-in-jquery-3/",
+         "website": "Telerik Developer Network",
+         "websiteUrl": "http://developer.telerik.com",
+         "date": "2016-03-02"
+      },
+      {
          "title": "An Introduction to jQuery's Deferred Objects",
          "tags": ["javascript", "jquery", "deferred", "sitepoint"],
          "url": "http://www.sitepoint.com/introduction-jquery-deferred-objects/",
