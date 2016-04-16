@@ -18,6 +18,7 @@ module.exports = function (grunt) {
       tmp: '.tmp'
    };
 
+   var mozjpeg = require('imagemin-mozjpeg');
    var rewriteRulesSnippet = require('grunt-connect-rewrite/lib/utils').rewriteRequest;
    var serveStatic = require('serve-static');
 
@@ -313,6 +314,9 @@ module.exports = function (grunt) {
       },
 
       imagemin: {
+         options: {
+            use: [mozjpeg()]
+         },
          dist: {
             files: [{
                expand: true,
