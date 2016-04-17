@@ -6,6 +6,12 @@ var isModernBrowser = 'querySelector' in document && 'localStorage' in window &&
 if (isModernBrowser) {
    require('classlist-polyfill');
 
+   if ('serviceWorker' in navigator) {
+      navigator.serviceWorker
+         .register('/service-worker.js')
+         .then(function() {}, function() {});
+   }
+
    var Audero = require('./audero');
    var controller = document.body.getAttribute('data-controller');
    var action = document.body.getAttribute('data-action');

@@ -357,6 +357,14 @@ module.exports = function (grunt) {
          }
       },
 
+      uglify: {
+         sw: {
+            files: {
+               '<%= config.dist %>/service-worker.js': '<%= config.dist %>/service-worker.js'
+            }
+         }
+      },
+
       copy: {
          dist: {
             files: [{
@@ -411,6 +419,27 @@ module.exports = function (grunt) {
          }
       },
 
+      'sw-precache': {
+         options: {
+            cacheId: 'audero'
+         },
+         app: {
+            options: {
+               baseDir: 'app'
+            },
+            staticFileGlobs: [
+               'images/**/*.{gif,jpeg,jpg,png}'
+            ]
+         },
+         dist: {
+            staticFileGlobs: [
+               'images/**/*.{gif,jpeg,jpg,png}',
+               'styles/**/*.css',
+               'scripts/**/*.js'
+            ]
+         }
+      },
+
       concurrent: {
          server: [
             'jshint',
@@ -448,6 +477,7 @@ module.exports = function (grunt) {
          'jscs',
          'concurrent:server',
          'postcss',
+         'sw-precache:app',
          'connect:livereload',
          'watch'
       ]);
@@ -482,7 +512,9 @@ module.exports = function (grunt) {
       'modernizr',
       'filerev',
       'usemin',
-      'htmlmin'
+      'htmlmin',
+      'sw-precache:dist',
+      'uglify:sw'
    ]);
 
    grunt.registerTask('default', [
