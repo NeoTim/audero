@@ -1,6 +1,12 @@
 {
    "papers": [
       {
+         "title": "WebReader: a screen reader for everyone, everywhere",
+         "reference": "The 13th International Web for All Conference",
+         "url": "",
+         "date": "2016"
+      },
+      {
          "title": "Nuove funzionalità per il portale CLIPS",
          "reference": "6° Convegno Nazionale Associazione Scienze della Voce",
          "url": "http://aisv2010.fisica.unina.it/Abstracts%20AISV2010.pdf",
