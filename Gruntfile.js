@@ -428,12 +428,12 @@ module.exports = function (grunt) {
                baseDir: 'app'
             },
             staticFileGlobs: [
-               'images/**/*.{gif,jpeg,jpg,png}'
+               'images/**/*.{gif,jpeg,jpg,png,ico}'
             ]
          },
          dist: {
             staticFileGlobs: [
-               'images/**/*.{gif,jpeg,jpg,png}',
+               'images/**/*.{gif,jpeg,jpg,png,ico}',
                'styles/**/*.css',
                'scripts/**/*.js'
             ]
