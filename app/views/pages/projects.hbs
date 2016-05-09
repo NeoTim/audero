@@ -17,7 +17,7 @@ description:
          {{#each projects}}
             <li>
                {{#contains url "http"}}
-                  <a href="{{url}}" target="_blank">{{title}}</a>
+                  <a href="{{url}}" target="_blank" rel="noopener noreferrer">{{title}}</a>
                {{else}}
                   <a href="{{url}}">{{title}}</a>
                {{/contains}}

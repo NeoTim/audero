@@ -14,11 +14,11 @@
       <ul>
          {{#each given-at}}
             <li>
-               <a href="{{website}}" target="_blank">{{name}}</a>, {{location}},
+               <a href="{{website}}" target="_blank" rel="noopener noreferrer">{{name}}</a>, {{location}},
                <time datetime="{{date}}">{{formatDate date "%d/%m/%Y"}}</time>,
-               <a href="{{slidesUrl}}" target="_blank">
+               <a href="{{slidesUrl}}" target="_blank" rel="noopener noreferrer">
                   Slides<span class="visually-hidden"> of the talk <cite>{{../title}}</cite> given at {{name}}</span></a>{{#if videoUrl}},
-               <a href="{{videoUrl}}" target="_blank">
+               <a href="{{videoUrl}}" target="_blank" rel="noopener noreferrer">
                   Video<span class="visually-hidden"> of the talk <cite>{{../title}}</cite> given at {{name}}</span>
                </a>{{/if}}
             </li>

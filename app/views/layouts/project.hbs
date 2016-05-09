@@ -14,7 +14,7 @@ controller: projects
          {{#each projects}}
             <li class="grid__item phablet--one-half tablet--one-third">
                {{#contains url "http"}}
-                  <a class="projects-menu__link" href="{{url}}" target="_blank">{{title}}</a>
+                  <a class="projects-menu__link" href="{{url}}" target="_blank" rel="noopener noreferrer">{{title}}</a>
                {{else}}
                   <a class="projects-menu__link" href="{{url}}">{{title}}</a>
                {{/contains}}
