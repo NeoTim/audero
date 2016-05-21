@@ -3,7 +3,8 @@ a
    color: $guardsmanRed;
    text-decoration: none;
 
-   &:hover
+   &:hover,
+   &:focus
    {
       text-decoration: underline;
    }
