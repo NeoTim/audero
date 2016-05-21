@@ -975,6 +975,14 @@
          "website": "SitePoint",
          "websiteUrl": "http://www.sitepoint.com",
          "date": "2016-03-16"
+      },
+      {
+         "title": "Easier Web Application Debugging with the Command Line API",
+         "tags": ["javascript", "debugging", "telerik"],
+         "url": "http://developer.telerik.com/featured/easier-web-application-debugging-command-line-api/",
+         "website": "Telerik Developer Network",
+         "websiteUrl": "http://developer.telerik.com",
+         "date": "2016-05-17"
       }
    ]
 }
