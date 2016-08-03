@@ -35,217 +35,217 @@
       {
          "title": "Create Your Own HTML5 Environmental Thermometer",
          "tags": ["html5", "css3", "javascript", "jquery", "google-maps", "geolocation", "sitepoint"],
-         "url": "http://www.sitepoint.com/hot-stuff-make-your-own-html5-environmental-thermometer/",
+         "url": "https://www.sitepoint.com/hot-stuff-make-your-own-html5-environmental-thermometer/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-09-08"
       },
       {
          "title": "Implementing a Cross-Browser Context Menu as a jQuery Plugin",
          "tags": ["javascript", "jquery", "plugin", "sitepoint"],
-         "url": "http://www.sitepoint.com/implementing-a-cross-browser-context-menu-as-a-jquery-plugin/",
+         "url": "https://www.sitepoint.com/implementing-a-cross-browser-context-menu-as-a-jquery-plugin/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-10-04"
       },
       {
          "title": "Setting Custom Error Messages for Zend_Form_Element",
          "tags": ["php", "zend-framework", "sitepoint"],
-         "url": "http://www.sitepoint.com/setting-custom-error-messages-for-zend_form_element/",
+         "url": "https://www.sitepoint.com/setting-custom-error-messages-for-zend_form_element/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-10-10"
       },
       {
          "title": "Five Useful Functions Missing in Javascript",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/5-useful-functions-missing-in-javascript/",
+         "url": "https://www.sitepoint.com/5-useful-functions-missing-in-javascript/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-10-15"
       },
       {
          "title": "List Files and Directories with PHP",
          "tags": ["php", "sitepoint"],
-         "url": "http://www.sitepoint.com/list-files-and-directories-with-php/",
+         "url": "https://www.sitepoint.com/list-files-and-directories-with-php/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-10-22"
       },
       {
          "title": "How to Deal with Cookies in JavaScript",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/how-to-deal-with-cookies-in-javascript/",
+         "url": "https://www.sitepoint.com/how-to-deal-with-cookies-in-javascript/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-10-22"
       },
       {
          "title": "Easter Eggs: What They Are and How to Create Them",
          "tags": ["php", "sitepoint"],
-         "url": "http://www.sitepoint.com/easter-eggs-what-they-are-and-how-to-create-them/",
+         "url": "https://www.sitepoint.com/easter-eggs-what-they-are-and-how-to-create-them/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-11-02"
       },
       {
          "title": "What's New in PhoneGap 2.2?",
          "tags": ["phonegap", "mobile", "sitepoint"],
-         "url": "http://www.sitepoint.com/whats-new-in-phonegap-2-2/",
+         "url": "https://www.sitepoint.com/whats-new-in-phonegap-2-2/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-11-05"
       },
       {
          "title": "What's New in jQuery Mobile 1.2.0?",
          "tags": ["jquery-mobile", "mobile", "sitepoint"],
-         "url": "http://www.sitepoint.com/whats-new-in-jquery-mobile-1-2-0/",
+         "url": "https://www.sitepoint.com/whats-new-in-jquery-mobile-1-2-0/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-11-12"
       },
       {
          "title": "Trimming Strings in JavaScript",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/trimming-strings-in-javascript/",
+         "url": "https://www.sitepoint.com/trimming-strings-in-javascript/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-11-14"
       },
       {
          "title": "3 Strange PHP Facts You May Not Know",
          "tags": ["php", "sitepoint"],
-         "url": "http://www.sitepoint.com/3-strange-php-facts-you-may-not-know/",
+         "url": "https://www.sitepoint.com/3-strange-php-facts-you-may-not-know/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-11-19"
       },
       {
          "title": "Discovering the High Resolution Time API",
          "tags": ["javascript", "html5-api", "performance", "sitepoint"],
-         "url": "http://www.sitepoint.com/discovering-the-high-resolution-time-api/",
+         "url": "https://www.sitepoint.com/discovering-the-high-resolution-time-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-11-19"
       },
       {
          "title": "Introduction to Page Visibility API",
          "tags": ["html5-api", "javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/introduction-to-page-visibility-api/",
+         "url": "https://www.sitepoint.com/introduction-to-page-visibility-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-11-23"
       },
       {
          "title": "Build Lists and Popups in Minutes Using jQuery Mobile",
          "tags": ["jquery-mobile", "mobile", "sitepoint"],
-         "url": "http://www.sitepoint.com/working-with-jquery-mobile-1-2-0/",
+         "url": "https://www.sitepoint.com/working-with-jquery-mobile-1-2-0/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-11-27"
       },
       {
          "title": "Sending Email with Swift Mailer",
          "tags": ["php", "sitepoint"],
-         "url": "http://www.sitepoint.com/sending-email-with-swift-mailer/",
+         "url": "https://www.sitepoint.com/sending-email-with-swift-mailer/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-12-03"
       },
       {
          "title": "Build a Location-Based Mobile App With HTML5 and Javascript (Series)",
          "tags": ["javascript", "jquery-mobile", "phonegap", "html5-api", "geolocation", "mobile", "sitepoint"],
-         "url": "http://www.sitepoint.com/series/build-a-location-based-mobile-app-with-html5-and-javascript/",
+         "url": "https://www.sitepoint.com/series/build-a-location-based-mobile-app-with-html5-and-javascript/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-12-12"
       },
       {
          "title": "Working with Geolocation and the Google Maps API",
          "tags": ["javascript", "html5-api", "geolocation", "google-maps", "sitepoint"],
-         "url": "http://www.sitepoint.com/working-with-geolocation-and-google-maps-api/",
+         "url": "https://www.sitepoint.com/working-with-geolocation-and-google-maps-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-12-21"
       },
       {
          "title": "What's New in Zend Framework 2",
          "tags": ["php", "zend-framework", "sitepoint"],
-         "url": "http://www.sitepoint.com/whats-new-in-zend-framework-2/",
+         "url": "https://www.sitepoint.com/whats-new-in-zend-framework-2/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-12-24"
       },
       {
          "title": "Getting Directions Using the Google Maps API",
          "tags": ["javascript", "html5-api", "geolocation", "google-maps", "sitepoint"],
-         "url": "http://www.sitepoint.com/find-a-route-using-the-geolocation-and-the-google-maps-api/",
+         "url": "https://www.sitepoint.com/find-a-route-using-the-geolocation-and-the-google-maps-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2012-12-28"
       },
       {
          "title": "Creating a Polyline Using Geolocation and the Google Maps API",
          "tags": ["javascript", "html5-api", "geolocation", "google-maps", "sitepoint"],
-         "url": "http://www.sitepoint.com/create-a-polyline-using-the-geolocation-and-the-google-maps-api/",
+         "url": "https://www.sitepoint.com/create-a-polyline-using-the-geolocation-and-the-google-maps-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2013-01-04"
       },
       {
          "title": "Customize Your jQuery Mobile Interface with Specialized Plugins",
          "tags": ["javascript", "jquery-mobile", "jquery", "plugin", "mobile", "sitepoint"],
-         "url": "http://www.sitepoint.com/how-to-change-texts-in-your-jquery-mobile-apps-without-breaking-widgets/",
+         "url": "https://www.sitepoint.com/how-to-change-texts-in-your-jquery-mobile-apps-without-breaking-widgets/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2013-01-11"
       },
       {
          "title": "Creating a Flashing Text Effect with jQuery",
          "tags": ["javascript", "jquery", "plugin", "sitepoint"],
-         "url": "http://www.sitepoint.com/creating-a-flashing-text-effect-with-jquery/",
+         "url": "https://www.sitepoint.com/creating-a-flashing-text-effect-with-jquery/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2013-01-16"
       },
       {
          "title": "Working with Cookies in jQuery",
          "tags": ["javascript", "jquery", "plugin", "sitepoint"],
-         "url": "http://www.sitepoint.com/eat-those-cookies-with-jquery/",
+         "url": "https://www.sitepoint.com/eat-those-cookies-with-jquery/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2013-01-21"
       },
       {
          "title": "What to Expect From jQuery Mobile 1.3.0",
          "tags": ["jquery-mobile", "mobile", "sitepoint"],
-         "url": "http://www.sitepoint.com/what-to-expect-from-jquery-mobile-1-3-0/",
+         "url": "https://www.sitepoint.com/what-to-expect-from-jquery-mobile-1-3-0/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2013-01-25"
       },
       {
          "title": "Build a Currency Converter with jQuery Mobile and Cordova (Series)",
          "tags": ["javascript", "jquery-mobile", "phonegap", "html5-api", "mobile", "sitepoint"],
-         "url": "http://www.sitepoint.com/series/build-a-currency-converter-with-jquery-mobile-and-cordova/",
+         "url": "https://www.sitepoint.com/series/build-a-currency-converter-with-jquery-mobile-and-cordova/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2013-02-07"
       },
       {
          "title": "Extract an Excerpt from a WAV File",
          "tags": ["php", "sitepoint"],
-         "url": "http://www.sitepoint.com/extract-an-exceprt-from-a-wav-file/",
+         "url": "https://www.sitepoint.com/extract-an-exceprt-from-a-wav-file/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2013-02-13"
       },
       {
          "title": "Five PHP Functions That Would be Great in JavaScript",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/five-php-functions-id-love-to-see-in-javascript/",
+         "url": "https://www.sitepoint.com/five-php-functions-id-love-to-see-in-javascript/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2013-02-22"
       },
       {
@@ -275,9 +275,9 @@
       {
          "title": "phpDay 2013: News and Highlights",
          "tags": ["php", "sitepoint"],
-         "url": "http://www.sitepoint.com/phpday-2013-news-and-highlights/",
+         "url": "https://www.sitepoint.com/phpday-2013-news-and-highlights/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2013-05-27"
       },
       {
@@ -307,33 +307,33 @@
       {
          "title": "Discovering the User Timing API",
          "tags": ["javascript", "html5-api", "performance", "sitepoint"],
-         "url": "http://www.sitepoint.com/discovering-user-timing-api/",
+         "url": "https://www.sitepoint.com/discovering-user-timing-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2013-12-11"
       },
       {
          "title": "An Introduction to the getUserMedia API",
          "tags": ["javascript", "html5-api", "sitepoint"],
-         "url": "http://www.sitepoint.com/introduction-getusermedia-api/",
+         "url": "https://www.sitepoint.com/introduction-getusermedia-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-01-02"
       },
       {
          "title": "Managing Custom Data with the HTML5 Dataset API",
          "tags": ["javascript", "html5-api", "sitepoint"],
-         "url": "http://www.sitepoint.com/managing-custom-data-html5-dataset-api/",
+         "url": "https://www.sitepoint.com/managing-custom-data-html5-dataset-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-01-10"
       },
       {
          "title": "10 HTML Tags You May Not Be Using",
          "tags": ["html", "html5", "semantic-web", "sitepoint"],
-         "url": "http://www.sitepoint.com/10-html-tags-not-using/",
+         "url": "https://www.sitepoint.com/10-html-tags-not-using/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-01-16"
       },
       {
@@ -347,33 +347,33 @@
       {
          "title": "Exploring the classList API",
          "tags": ["javascript", "html5-api", "sitepoint"],
-         "url": "http://www.sitepoint.com/exploring-classlist-api/",
+         "url": "https://www.sitepoint.com/exploring-classlist-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-01-20"
       },
       {
          "title": "Managing Gettext Translations on Shared Hosting",
          "tags": ["php", "i18n", "sitepoint"],
-         "url": "http://www.sitepoint.com/managing-gettext-translations-shared-hosting/",
+         "url": "https://www.sitepoint.com/managing-gettext-translations-shared-hosting/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-02-10"
       },
       {
          "title": "Introducing the Web Speech API",
          "tags": ["javascript", "html5-api", "sitepoint"],
-         "url": "http://www.sitepoint.com/introducing-web-speech-api/",
+         "url": "https://www.sitepoint.com/introducing-web-speech-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-02-14"
       },
       {
          "title": "10 HTML5 APIs Worth Looking Into",
          "tags": ["html", "html5-api", "sitepoint"],
-         "url": "http://www.sitepoint.com/10-html5-apis-worth-looking/",
+         "url": "https://www.sitepoint.com/10-html5-apis-worth-looking/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-02-19"
       },
       {
@@ -387,9 +387,9 @@
       {
          "title": "Talking Web Pages and the Speech Synthesis API",
          "tags": ["javascript", "html5-api", "sitepoint"],
-         "url": "http://www.sitepoint.com/talking-web-pages-and-the-speech-synthesis-api/",
+         "url": "https://www.sitepoint.com/talking-web-pages-and-the-speech-synthesis-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-03-03"
       },
       {
@@ -403,9 +403,9 @@
       {
          "title": "An Introduction to the Web Notifications API",
          "tags": ["javascript", "html5-api", "mobile", "sitepoint"],
-         "url": "http://www.sitepoint.com/introduction-web-notifications-api/",
+         "url": "https://www.sitepoint.com/introduction-web-notifications-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-04-22"
       },
       {
@@ -435,73 +435,73 @@
       {
          "title": "Introducing the Proximity API",
          "tags": ["javascript", "html5-api", "mobile", "sitepoint"],
-         "url": "http://www.sitepoint.com/introducing-proximity-api/",
+         "url": "https://www.sitepoint.com/introducing-proximity-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-05-29"
       },
       {
          "title": "5 Things I've Learned About Accessibility",
          "tags": ["html", "accessibility", "sitepoint"],
-         "url": "http://www.sitepoint.com/5-things-learned-accessibility/",
+         "url": "https://www.sitepoint.com/5-things-learned-accessibility/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-06-04"
       },
       {
          "title": "5 Grunt Tasks You Won't Want to Miss!",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/five-grunt-tasks-wont-want-miss/",
+         "url": "https://www.sitepoint.com/five-grunt-tasks-wont-want-miss/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-06-04"
       },
       {
          "title": "Easily Improving jQuery Animations",
          "tags": ["javascript", "jquery", "css", "animations", "sitepoint"],
-         "url": "http://www.sitepoint.com/easily-improving-jquery-animations/",
+         "url": "https://www.sitepoint.com/easily-improving-jquery-animations/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-06-23"
       },
       {
          "title": "A Guide to the jQuery animate() Method",
          "tags": ["javascript", "jquery", "animations", "sitepoint"],
-         "url": "http://www.sitepoint.com/guide-jquery-animate-method/",
+         "url": "https://www.sitepoint.com/guide-jquery-animate-method/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-07-08"
       },
       {
          "title": "Introduction to the Resource Timing API",
          "tags": ["javascript", "html5-api", "performance", "sitepoint"],
-         "url": "http://www.sitepoint.com/introduction-resource-timing-api/",
+         "url": "https://www.sitepoint.com/introduction-resource-timing-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-07-22"
       },
       {
          "title": "5 JavaScript APIs to Empower Your Mobile Web Pages",
          "tags": ["javascript", "html5-api", "mobile", "sitepoint"],
-         "url": "http://www.sitepoint.com/5-javascript-apis-empower-mobile-web-pages/",
+         "url": "https://www.sitepoint.com/5-javascript-apis-empower-mobile-web-pages/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-07-24"
       },
       {
          "title": "3 New JavaScript APIs You May Want to Follow",
          "tags": ["javascript", "html5-api", "sitepoint"],
-         "url": "http://www.sitepoint.com/3-new-javascript-apis-may-want-follow/",
+         "url": "https://www.sitepoint.com/3-new-javascript-apis-may-want-follow/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-07-28"
       },
       {
          "title": "5 Little Known Details About jQuery Methods",
          "tags": ["javascript", "jquery", "sitepoint"],
-         "url": "http://www.sitepoint.com/5-little-known-details-jquery-methods/",
+         "url": "https://www.sitepoint.com/5-little-known-details-jquery-methods/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-08-04"
       },
       {
@@ -515,33 +515,33 @@
       {
          "title": "Getting Started with QUnit",
          "tags": ["javascript", "qunit", "testing", "sitepoint"],
-         "url": "http://www.sitepoint.com/getting-started-qunit/",
+         "url": "https://www.sitepoint.com/getting-started-qunit/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-08-13"
       },
       {
          "title": "CSS \"position: sticky\" – Introduction and Polyfills",
          "tags": ["css", "sitepoint"],
-         "url": "http://www.sitepoint.com/css-position-sticky-introduction-polyfills/",
+         "url": "https://www.sitepoint.com/css-position-sticky-introduction-polyfills/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-08-14"
       },
       {
          "title": "How to Test Your Site Locally with Modern.IE",
          "tags": ["testing", "sitepoint"],
-         "url": "http://www.sitepoint.com/test-site-locally-modern-ie/",
+         "url": "https://www.sitepoint.com/test-site-locally-modern-ie/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-08-19"
       },
       {
          "title": "An Introduction to jQuery's Shorthand Ajax Methods",
          "tags": ["javascript", "jquery", "sitepoint"],
-         "url": "http://www.sitepoint.com/introduction-jquery-shorthand-ajax-methods/",
+         "url": "https://www.sitepoint.com/introduction-jquery-shorthand-ajax-methods/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-08-20"
       },
       {
@@ -555,121 +555,121 @@
       {
          "title": "How to Use jQuery's $.ajax() Function",
          "tags": ["javascript", "jquery", "sitepoint"],
-         "url": "http://www.sitepoint.com/use-jquerys-ajax-function/",
+         "url": "https://www.sitepoint.com/use-jquerys-ajax-function/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-08-26"
       },
       {
          "title": "5 Grunt Tasks that Improve the Performance of Your Website",
          "tags": ["javascript", "performance", "sitepoint"],
-         "url": "http://www.sitepoint.com/5-grunt-tasks-improve-performance-website/",
+         "url": "https://www.sitepoint.com/5-grunt-tasks-improve-performance-website/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-08-27"
       },
       {
          "title": "How to Test Asynchronous Code with QUnit",
          "tags": ["javascript", "qunit", "testing", "sitepoint"],
-         "url": "http://www.sitepoint.com/test-asynchronous-code-qunit/",
+         "url": "https://www.sitepoint.com/test-asynchronous-code-qunit/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-09-01"
       },
       {
          "title": "QUnit Advanced Concepts: Modules and uration",
          "tags": ["javascript", "qunit", "testing", "sitepoint"],
-         "url": "http://www.sitepoint.com/qunit-advanced-concepts-modules-uration/",
+         "url": "https://www.sitepoint.com/qunit-advanced-concepts-modules-uration/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-09-04"
       },
       {
          "title": "Creating Nice Notifications with jQuery",
          "tags": ["javascript", "jquery", "plugin", "sitepoint"],
-         "url": "http://www.sitepoint.com/creating-nice-notifications-jquery/",
+         "url": "https://www.sitepoint.com/creating-nice-notifications-jquery/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-09-08"
       },
       {
          "title": "Introducing the Screen Orientation API",
          "tags": ["javascript", "html5-api", "sitepoint"],
-         "url": "http://www.sitepoint.com/introducing-screen-orientation-api/",
+         "url": "https://www.sitepoint.com/introducing-screen-orientation-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-09-11"
       },
       {
          "title": "Creating Autocomplete datalist Controls",
          "tags": ["html5", "sitepoint"],
-         "url": "http://www.sitepoint.com/creating-autocomplete-datalist-controls/",
+         "url": "https://www.sitepoint.com/creating-autocomplete-datalist-controls/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-09-15"
       },
       {
          "title": "A Guide to the HTML5 'time' Element",
          "tags": ["html5", "sitepoint"],
-         "url": "http://www.sitepoint.com/html5-time-element-guide/",
+         "url": "https://www.sitepoint.com/html5-time-element-guide/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-09-16"
       },
       {
          "title": "5 Typical JavaScript Interview Exercises",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/5-typical-javascript-interview-exercises/",
+         "url": "https://www.sitepoint.com/5-typical-javascript-interview-exercises/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-09-18"
       },
       {
          "title": "Preparing for ECMAScript 6: New Array Methods",
          "tags": ["javascript", "ecmascript-6", "sitepoint"],
-         "url": "http://www.sitepoint.com/preparing-ecmascript-6-new-array-methods/",
+         "url": "https://www.sitepoint.com/preparing-ecmascript-6-new-array-methods/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-09-22"
       },
       {
          "title": "Creating a Folded Paper Effect with OriDomi",
          "tags": ["javascript", "jquery", "plugin", "sitepoint"],
-         "url": "http://www.sitepoint.com/creating-folded-paper-effect-oridomi/",
+         "url": "https://www.sitepoint.com/creating-folded-paper-effect-oridomi/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-09-24"
       },
       {
          "title": "Preparing for ECMAScript 6: New String Methods",
          "tags": ["javascript", "ecmascript-6", "sitepoint"],
-         "url": "http://www.sitepoint.com/preparing-ecmascript-6-new-string-methods/",
+         "url": "https://www.sitepoint.com/preparing-ecmascript-6-new-string-methods/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-09-29"
       },
       {
          "title": "Preparing for ECMAScript 6: Map and WeakMap",
          "tags": ["javascript", "ecmascript-6", "sitepoint"],
-         "url": "http://www.sitepoint.com/preparing-ecmascript-6-map-weakmap/",
+         "url": "https://www.sitepoint.com/preparing-ecmascript-6-map-weakmap/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-10-01"
       },
       {
          "title": "5 More JavaScript Interview Exercises",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/5-javascript-interview-exercises/",
+         "url": "https://www.sitepoint.com/5-javascript-interview-exercises/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-10-06"
       },
       {
          "title": "Preparing for ECMAScript 6: Set and WeakSet",
          "tags": ["javascript", "ecmascript-6", "sitepoint"],
-         "url": "http://www.sitepoint.com/preparing-ecmascript-6-set-weakset/",
+         "url": "https://www.sitepoint.com/preparing-ecmascript-6-set-weakset/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-10-13"
       },
       {
@@ -683,97 +683,97 @@
       {
          "title": "Preparing for ECMAScript 6: New Number Methods",
          "tags": ["javascript", "ecmascript-6", "sitepoint"],
-         "url": "http://www.sitepoint.com/preparing-ecmascript-6-new-number-methods/",
+         "url": "https://www.sitepoint.com/preparing-ecmascript-6-new-number-methods/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-10-20"
       },
       {
          "title": "Saving Bandwidth on Slow Connections with Saveba.js",
          "tags": ["javascript", "performance", "sitepoint"],
-         "url": "http://www.sitepoint.com/saving-bandwidth-slow-connections-saveba-js/",
+         "url": "https://www.sitepoint.com/saving-bandwidth-slow-connections-saveba-js/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-10-22"
       },
       {
          "title": "Preparing for ECMAScript 6: New Function Syntax",
          "tags": ["javascript", "ecmascript-6", "sitepoint"],
-         "url": "http://www.sitepoint.com/preparing-ecmascript-6-new-function-syntax/",
+         "url": "https://www.sitepoint.com/preparing-ecmascript-6-new-function-syntax/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-10-27"
       },
       {
          "title": "The Screen Orientation API Reloaded",
          "tags": ["javascript", "html5-api", "sitepoint"],
-         "url": "http://www.sitepoint.com/screen-orientation-api-reloaded/",
+         "url": "https://www.sitepoint.com/screen-orientation-api-reloaded/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-11-03"
       },
       {
          "title": "An Introduction to Parallax Scrolling Using Stellar.js",
          "tags": ["javascript", "effects", "sitepoint"],
-         "url": "http://www.sitepoint.com/introduction-parallax-scrolling-using-stellar-js/",
+         "url": "https://www.sitepoint.com/introduction-parallax-scrolling-using-stellar-js/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-11-10"
       },
       {
          "title": "Preparing for ECMAScript 6: let and const",
          "tags": ["javascript", "ecmascript-6", "sitepoint"],
-         "url": "http://www.sitepoint.com/preparing-ecmascript-6-let-const/",
+         "url": "https://www.sitepoint.com/preparing-ecmascript-6-let-const/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-11-12"
       },
       {
          "title": "5 Obsolete Features in HTML5",
          "tags": ["html5", "sitepoint"],
-         "url": "http://www.sitepoint.com/5-obsolete-features-html5/",
+         "url": "https://www.sitepoint.com/5-obsolete-features-html5/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-11-12"
       },
       {
          "title": "Experimenting with the Web Speech API",
          "tags": ["javascript", "html5-api", "sitepoint"],
-         "url": "http://www.sitepoint.com/experimenting-web-speech-api/",
+         "url": "https://www.sitepoint.com/experimenting-web-speech-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-11-18"
       },
       {
          "title": "Revealing Elements with scrollReveal.js",
          "tags": ["javascript", "effects", "sitepoint"],
-         "url": "http://www.sitepoint.com/revealing-elements-scrollreveal-js/",
+         "url": "https://www.sitepoint.com/revealing-elements-scrollreveal-js/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-11-24"
       },
       {
          "title": "10 Typical HTML Interview Exercises",
          "tags": ["html", "sitepoint"],
-         "url": "http://www.sitepoint.com/10-typical-html-interview-exercises/",
+         "url": "https://www.sitepoint.com/10-typical-html-interview-exercises/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-11-25"
       },
       {
          "title": "Creating Nice Alerts with sweetAlert",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/creating-nice-alerts-sweetalert/",
+         "url": "https://www.sitepoint.com/creating-nice-alerts-sweetalert/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-12-03"
       },
       {
          "title": "Sorting Tables with Tablesorter",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/sorting-tables-tablesorter/",
+         "url": "https://www.sitepoint.com/sorting-tables-tablesorter/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-12-08"
       },
       {
@@ -787,9 +787,9 @@
       {
          "title": "How to Accessibly Rotate Contents with jQuery",
          "tags": ["javascript", "jquery", "effects", "sitepoint"],
-         "url": "http://www.sitepoint.com/accessibly-rotate-contents-jquery/",
+         "url": "https://www.sitepoint.com/accessibly-rotate-contents-jquery/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2014-12-16"
       },
       {
@@ -803,41 +803,41 @@
       {
          "title": "Creating Beautiful Charts with Chart.js",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/creating-beautiful-charts-chart-js/",
+         "url": "https://www.sitepoint.com/creating-beautiful-charts-chart-js/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2015-01-07"
       },
       {
          "title": "What’s New in QUnit 1.16",
          "tags": ["javascript", "qunit", "testing", "sitepoint"],
-         "url": "http://www.sitepoint.com/whats-new-qunit-1-16/",
+         "url": "https://www.sitepoint.com/whats-new-qunit-1-16/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2015-01-12"
       },
       {
          "title": "Auto-filling Forms with jQuery and the Web Storage API",
          "tags": ["javascript", "html5-api", "jquery", "sitepoint"],
-         "url": "http://www.sitepoint.com/auto-filling-forms-jquery-web-storage-api/",
+         "url": "https://www.sitepoint.com/auto-filling-forms-jquery-web-storage-api/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2015-01-19"
       },
       {
          "title": "5 Mistakes Job Interviewers Make",
          "tags": ["job", "sitepoint"],
-         "url": "http://www.sitepoint.com/mistakes-job-interviewers-make/",
+         "url": "https://www.sitepoint.com/mistakes-job-interviewers-make/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2015-01-20"
       },
       {
          "title": "5 Mistakes Job Candidates Make",
          "tags": ["job", "sitepoint"],
-         "url": "http://www.sitepoint.com/5-mistakes-job-candidates-make/",
+         "url": "https://www.sitepoint.com/5-mistakes-job-candidates-make/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2015-01-23"
       },
       {
@@ -859,17 +859,17 @@
       {
          "title": "Creating an Image Gallery with the Flickr API — Requirements and Markup",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/creating-image-gallery-using-flickr-api-requirements-markup/",
+         "url": "https://www.sitepoint.com/creating-image-gallery-using-flickr-api-requirements-markup/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2015-02-16"
       },
       {
          "title": "Creating an Image Gallery with the Flickr API — Style and Logic",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/creating-image-gallery-flickr-api-style-logic/",
+         "url": "https://www.sitepoint.com/creating-image-gallery-flickr-api-style-logic/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2015-02-19"
       },
       {
@@ -891,9 +891,9 @@
       {
          "title": "3 JavaScript Libraries to Keep an Eye on in 2015",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/3-javascript-libraries-keep-eye-2015/",
+         "url": "https://www.sitepoint.com/3-javascript-libraries-keep-eye-2015/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2015-02-23"
       },
       {
@@ -907,9 +907,9 @@
       {
          "title": "Isomorphic JavaScript Applications — the Future of the Web?",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/isomorphic-javascript-applications/",
+         "url": "https://www.sitepoint.com/isomorphic-javascript-applications/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2015-02-25"
       },
       {
@@ -931,17 +931,17 @@
       {
          "title": "Creating a Simple Audio Player with SoundManager 2",
          "tags": ["javascript", "sitepoint"],
-         "url": "http://www.sitepoint.com/creating-audio-player-soundmanager/",
+         "url": "https://www.sitepoint.com/creating-audio-player-soundmanager/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2015-03-11"
       },
       {
          "title": "Building a Mobile Javascript Powered Audio Player",
          "tags": ["javascript", "html5-api", "html5", "sitepoint"],
-         "url": "http://www.sitepoint.com/building-mobile-javascript-powered-audio-player/",
+         "url": "https://www.sitepoint.com/building-mobile-javascript-powered-audio-player/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2015-03-17"
       },
       {
@@ -971,9 +971,9 @@
       {
          "title": "An Introduction to jQuery's Deferred Objects",
          "tags": ["javascript", "jquery", "deferred", "sitepoint"],
-         "url": "http://www.sitepoint.com/introduction-jquery-deferred-objects/",
+         "url": "https://www.sitepoint.com/introduction-jquery-deferred-objects/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2016-03-16"
       },
       {
@@ -997,7 +997,7 @@
          "tags": ["javascript", "i18n", "l10n", "globalize", "sitepoint"],
          "url": "https://www.sitepoint.com/how-to-implement-internationalization-i18n-in-javascript/",
          "website": "SitePoint",
-         "websiteUrl": "http://www.sitepoint.com",
+         "websiteUrl": "https://www.sitepoint.com",
          "date": "2016-08-01"
       }
    ]
