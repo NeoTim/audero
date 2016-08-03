@@ -983,6 +983,14 @@
          "website": "Telerik Developer Network",
          "websiteUrl": "http://developer.telerik.com",
          "date": "2016-05-17"
+      },
+      {
+         "title": "Improving the Quality of Front End Projects, Automatically!",
+         "tags": ["html", "css", "sass", "javascript", "accessibility", "grunt", "automation", "code-consistency", "telerik"],
+         "url": "http://developer.telerik.com/featured/improving-quality-front-end-projects-automatically-pt-1-html/",
+         "website": "Telerik Developer Network",
+         "websiteUrl": "http://developer.telerik.com",
+         "date": "2016-06-15"
       }
    ]
 }
