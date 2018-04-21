@@ -1,7 +1,7 @@
 {
    "name": "audero",
    "title": "Audero",
-   "version": "1.0.0",
+   "version": "2.0.0",
    "author": {
       "name": "Aurelio De Rosa",
       "email": "a.derosa@audero.it",
@@ -36,7 +36,7 @@
       "build": "gatsby build",
       "develop": "gatsby develop",
       "format": "prettier --write src/**/*.js",
-      "test": "echo \"Error: no test specified\" && exit 1"
+      "test": "exit 0"
    },
    "devDependencies": {
       "bootstrap": "^4.1.0",
