@@ -1,0 +1,60 @@
+<!DOCTYPE html><html><head><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=author content="Aurelio De Rosa"><title>Enhancing the abbr Element on Mobile Demo by Aurelio De Rosa</title><style>*
+         {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+         }
+
+         body
+         {
+            margin: 2em auto;
+            padding: 0 0.5em;
+            font-size: 20px;
+         }
+
+         abbr:after
+         {
+            content: " (" attr(title) ")";
+         }
+
+         @media screen and (min-width: 1025px)
+         {
+            abbr.abbr-demo-desktop
+            {
+               border-bottom: 1px dashed #ADADAD;
+               cursor:help;
+            }
+
+            abbr.abbr-demo-desktop:after
+            {
+               content: "";
+            }
+         }
+
+         @media screen and (min-width: 769px)
+         {
+            abbr.abbr-demo-tablet
+            {
+               border-bottom: 1px dashed #ADADAD;
+               cursor:help;
+            }
+
+            abbr.abbr-demo-tablet:after
+            {
+               content: "";
+            }
+         }
+
+         @media screen and (min-width: 481px)
+         {
+            abbr.abbr-demo-mobile
+            {
+               border-bottom: 1px dashed #ADADAD;
+               cursor:help;
+            }
+
+            abbr.abbr-demo-mobile:after
+            {
+               content: "";
+            }
+         }</style><body><a href=http://aurelio.audero.it/blog/2013/12/23/enhancing-the-element-on-mobile/ >Go back to the article</a><h1>Enhancing the abbr Element on Mobile</h1><p>To see the demo in action, resize the window of your browser or rotate your smartphone.</p><p><abbr class=abbr-demo-desktop title="Linux Apache MySQL PHP">LAMP</abbr> - Breakpoint at 1025px</p><p><abbr class=abbr-demo-tablet title="Linux Apache MySQL PHP">LAMP</abbr> - Breakpoint at 769px</p><p><abbr class=abbr-demo-mobile title="Linux Apache MySQL PHP">LAMP</abbr> - Breakpoint at 481px</p><small class=author>Demo created by <a href=http://www.audero.it>Aurelio De Rosa</a> (<a href=https://twitter.com/AurelioDeRosa>@AurelioDeRosa</a>)</small></body></head></html>

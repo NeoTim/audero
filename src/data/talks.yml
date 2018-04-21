@@ -1,0 +1,165 @@
+-
+   title: Pensa in grande
+   description: |
+      Quando si è studenti universitari si sogna spesso di lavorare per una grande azienda informatica, ma tanti hanno paura di non essere all'altezza delle aspettative. La paura di fallire può essere tale da non volere neanche provare a mandare la candidatura ed affrontare il colloquio di lavoro.
+
+      In questo talk, racconterò la mia esperienza e le mie sensazioni che mi hanno percorso da essere uno studente universitario a sviluppatore per Facebook. Inoltre, racconterò la realtà lavorativa e le opportunità offerte dalle grandi aziende e dall'estero.
+   tags:
+      - Motivational
+      - Think big
+   speakerdeckId:
+   givenAt:
+      -
+         name: University of Naples "Federico II"
+         website: https://www.unina.it
+         location: Naples (Italy)
+         date: 2017-10-11
+         slidesUrl: https://speakerdeck.com/aurelioderosa/pensa-in-grande-facebook-italian-universities-tour-2017
+      -
+         name: Roma Tre University
+         website: http://www.uniroma3.it
+         location: Rome (Italy)
+         date: 2017-10-10
+         slidesUrl: https://speakerdeck.com/aurelioderosa/pensa-in-grande-facebook-italian-universities-tour-2017
+      -
+         name: University of Padua
+         website: http://www.unipd.it
+         location: Padua (Italy)
+         date: 2017-10-05
+         slidesUrl: https://speakerdeck.com/aurelioderosa/pensa-in-grande-facebook-italian-universities-tour-2017
+-
+   title: Improve the style and quality of your project. Automatically!
+   description: |
+      When working in a team, you deal with people at different levels, from juniors to seniors. If you're the lead of the project, it's really hard to have all the developers involved following the same code conventions and having them writing the same high quality code you wish. But that's not their fault and nobody has to be blamed. Everyone has been there at some point in his or her career, and unless you want to go crazy, you can't review every line of code of the project.
+
+      In this talk, I'll discuss some tools that can help you in automatically checking the code style and quality of the HTML, CSS, Sass, and JavaScript of your team to improve the project without slowing anyone down.
+   tags:
+      - Automation
+      - Code quality
+      - Code style
+      - HTML
+      - CSS
+      - Sass
+      - JavaScript
+   speakerdeckId: 89b269e0502144be937c23a81989975d
+   givenAt:
+      -
+         name: Topconf Tallinn 2015
+         website: https://topconf.com/tallinn-2015/
+         location: Tallinn (Estonia)
+         date: 2015-11-18
+         slidesUrl: https://speakerdeck.com/aurelioderosa/improve-the-style-and-quality-of-your-project-automatically-topconf-tallinn-2015
+         videoUrl: https://www.youtube.com/watch?v=CFGKAJaweiM
+-
+   title: Talking and listening to web pages
+   description: |
+      As web developers, our job is to build nice, fast, and reliable websites, web apps, or web services. But our role isn't limited to this. We have to build these products not only for our ideal users but for a range of people as wide as possible. Today's browsers help us in achieving this goal providing APIs created with this scope in mind. One of these APIs is the Web Speech API that provides speech input and text-to-speech output features in a web browser.
+
+      In this talk you'll learn what the Web Speech API is and how it can drastically improve the way users, especially those with disabilities, perform tasks in your web pages.
+   tags:
+      - JavaScript
+      - Web Speech API
+      - Accessibility
+   speakerdeckId: fd0d28b591974e9d9a7f461e74877264
+   givenAt:
+      -
+         name: Topconf Tallinn 2015
+         website: https://topconf.com/tallinn-2015/
+         location: Tallinn (Estonia)
+         date: 2015-11-18
+         slidesUrl: https://speakerdeck.com/aurelioderosa/talking-and-listening-to-web-pages-topconf-tallinn-2015
+         videoUrl: https://www.youtube.com/watch?v=deiA9JeZk3E
+      -
+         name: jsDay 2015
+         website: https://jsday.it
+         location: Verona (Italy)
+         date: 2015-05-14
+         slidesUrl: https://speakerdeck.com/aurelioderosa/talking-and-listening-to-web-pages-jsday-2015
+         videoUrl: https://vimeo.com/137820623
+      -
+         name: 4Developers 2015
+         website: https://www.4developers.org.pl
+         location: Warsaw (Poland)
+         date: 2015-04-20
+         slidesUrl: https://speakerdeck.com/aurelioderosa/talking-and-listening-to-web-pages-4developers-2015
+      -
+         name: WebTech Conference 2014
+         website: https://webtechcon.de/
+         location: Munich (Germany)
+         date: 2014-10-27
+         slidesUrl: https://speakerdeck.com/aurelioderosa/talking-and-listening-to-web-pages-webtech-conference-2014
+-
+   title: People don't give a f**k of JavaScript
+   description: |
+      People don't give a f**k of JavaScript. You shouldn't either. We are here to do stuffs, whether you call them websites, web applications, web services or hybrid apps. People want to perform tasks, not listen you talking about your favourite programming language. So, use the one you feel more comfortable with and just release the next big thing. But, if your favourite language is JavaScript, let's write better code. What does better means? Better for developers, better for devices, better for users.
+
+      In this talk, I'll describe some of the latest HTML5 APIs, many of which still experimental, that can help you develop great code. In a bunch of minutes, you'll see how to use:
+
+      - The High Resolution Time and the User Timing APIs to help yourself
+      testing your code performances
+      - The Page Visibility and the Battery APIs to take care of devices'
+      resources
+      - The Vibration and the GetUserMedia APIs to create better User Experiences
+   tags:
+      - JavaScript
+      - HTML5
+      - Performance
+      - UX
+   speakerdeckId: 8ef89a4043f80132269572b3800f284f
+   givenAt:
+      -
+         name: 4Developers 2015
+         website: https://www.4developers.org.pl
+         location: Warsaw (Poland)
+         date: 2015-04-20
+         slidesUrl: https://speakerdeck.com/aurelioderosa/people-dont-give-a-f-star-star-k-of-javascript-4developers-2015
+      -
+         name: WebTech Conference 2014
+         website: https://webtechcon.de
+         location: Munich (Germany)
+         date: 2014-10-28
+         slidesUrl: https://speakerdeck.com/aurelioderosa/people-dont-give-a-f-star-star-k-of-javascript-webtech-conference-2014
+      -
+         name: London Web Standards July 2014
+         website: http://londonwebstandards.org/
+         location: London (United Kingdom)
+         date: 2014-07-21
+         slidesUrl: https://speakerdeck.com/aurelioderosa/people-dont-give-a-f-star-star-k-of-javascript-london-web-standards-july-2014
+      -
+         name: Dutch Mobile Conference 2014
+         website: https://www.mobileconference.nl
+         location: Amsterdam (Netherlands)
+         date: 2014-06-27
+         slidesUrl: https://speakerdeck.com/aurelioderosa/people-dont-give-a-f-star-star-k-of-javascript-dutch-mobile-conference-2014
+      -
+         name: Codemotion Madrid 2013
+         website: https://codemotion.es
+         location: Madrid (Spain)
+         date: 2013-10-19
+         slidesUrl: https://speakerdeck.com/aurelioderosa/people-dont-give-a-f-star-star-k-of-javascript-codemotion-madrid-2013
+-
+   title: Modern front-end with the eyes of a PHP developer
+   description: |
+      Unless you're lucky (?) enough to work with PHP only, chances there that you deal also with HTML, CSS, and JavaScript. In the wild, PHP developers are supposed to know and be proficient at front-end too. For this reason, we should stay up-to-date and efficient in this field. Front-end is heavily changed in the last 2 years due to the introduction and the growth of tools like Grunt, Bower and Yeoman.
+
+      In this talk, you'll discover what they are and how they can help you to enhance your workflow, paying attention to highlight the similarities and the differences with their task-related PHP software.
+   tags:
+      - Automation
+      - PHP
+      - HTML
+      - CSS
+      - JavaScript
+   speakerdeckId: 50916be0e146013127846a55ea797aa7
+   givenAt:
+      -
+         name: Dutch PHP Conference 2014
+         website: https://www.phpconference.nl
+         location: Amsterdam (Netherlands)
+         date: 2014-06-28
+         slidesUrl: https://speakerdeck.com/aurelioderosa/modern-front-end-with-the-eyes-of-a-php-developer-dutch-php-conference-2014
+      -
+         name: 4Developers 2014
+         website: https://www.4developers.org.pl
+         location: Warsaw (Poland)
+         date: 2014-04-07
+         slidesUrl: https://speakerdeck.com/aurelioderosa/modern-front-end-with-the-eyes-of-a-php-developer-4developers-2014

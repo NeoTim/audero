@@ -1,0 +1,79 @@
+@import 'node_modules/bootstrap/scss/functions';
+@import 'node_modules/bootstrap/scss/variables';
+@mixin createTriangle($size: 10px, $color: $gray-400) {
+   border-bottom: ($size * 1.2) solid transparent;
+   border-left: $size solid $color;
+   border-top: ($size * 1.2) solid transparent;
+   content: '';
+   position: absolute;
+   right: -$size;
+   top: 0;
+}
+
+.tag {
+   background: $gray-400;
+   color: $body-color;
+   display: block;
+   padding: 0 8px;
+   position: relative;
+   &:after {
+      @include createTriangle();
+   }
+}
+
+.tag-html,
+.tag-html5,
+.tag-html5-api {
+   $colorHtml: #e34f26;
+   background: $colorHtml;
+   color: $white;
+   &:after {
+      border-left-color: $colorHtml;
+   }
+}
+
+.tag-css,
+.tag-css3 {
+   $colorCss: #2277FF;
+   background: $colorCss;
+   color: $white;
+   &:after {
+      border-left-color: $colorCss;
+   }
+}
+
+.tag-sass,
+.tag-scss {
+   $colorSass: #C6538C;
+   background: $colorSass;
+   color: $white;
+   &:after {
+      border-left-color: $colorSass;
+   }
+}
+
+.tag-javascript {
+   $colorJavaScript: #F0DB4F;
+   background: $colorJavaScript;
+   &:after {
+      border-left-color: $colorJavaScript;
+   }
+}
+
+.tag-jquery {
+   $colorjQuery: #0769AD;
+   background: $colorjQuery;
+   color: $white;
+   &:after {
+      border-left-color: $colorjQuery;
+   }
+}
+
+.tag-php {
+   $colorPHP: #4F5B93;
+   background: $colorPHP;
+   color: $white;
+   &:after {
+      border-left-color: $colorPHP;
+   }
+}

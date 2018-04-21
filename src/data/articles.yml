@@ -1,0 +1,1262 @@
+-
+   title: Create Your Own HTML5 Environmental Thermometer
+   tags:
+      - HTML5
+      - CSS3
+      - JavaScript
+      - jQuery
+      - Google-maps
+      - Geolocation
+      - SitePoint
+   url: https://www.sitepoint.com/hot-stuff-make-your-own-html5-environmental-thermometer/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-09-08
+-
+   title: Implementing a Cross-Browser Context Menu as a jQuery Plugin
+   tags:
+      - JavaScript
+      - jQuery
+      - Plugin
+      - SitePoint
+   url: https://www.sitepoint.com/implementing-a-cross-browser-context-menu-as-a-jquery-plugin/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-10-04
+-
+   title: Setting Custom Error Messages for Zend_Form_Element
+   tags:
+      - PHP
+      - Zend-Framework
+      - SitePoint
+   url: https://www.sitepoint.com/setting-custom-error-messages-for-zend_form_element/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-10-10
+-
+   title: Five Useful Functions Missing in JavaScript
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/5-useful-functions-missing-in-JavaScript/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-10-15
+-
+   title: List Files and Directories with PHP
+   tags:
+      - PHP
+      - SitePoint
+   url: https://www.sitepoint.com/list-files-and-directories-with-php/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-10-22
+-
+   title: How to Deal with Cookies in JavaScript
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/how-to-deal-with-cookies-in-JavaScript/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-10-22
+-
+   title: |
+      Easter Eggs: What They Are and How to Create Them
+   tags:
+      - PHP
+      - SitePoint
+   url: https://www.sitepoint.com/easter-eggs-what-they-are-and-how-to-create-them/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-11-02
+-
+   title: What's New in PhoneGap 2.2?
+   tags:
+      - PhoneGap
+      - Mobile
+      - SitePoint
+   url: https://www.sitepoint.com/whats-new-in-phonegap-2-2/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-11-05
+-
+   title: What's New in jQuery Mobile 1.2.0?
+   tags:
+      - jQuery-Mobile
+      - Mobile
+      - SitePoint
+   url: https://www.sitepoint.com/whats-new-in-jquery-mobile-1-2-0/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-11-12
+-
+   title: Trimming Strings in JavaScript
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/trimming-strings-in-JavaScript/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-11-14
+-
+   title: 3 Strange PHP Facts You May Not Know
+   tags:
+      - PHP
+      - SitePoint
+   url: https://www.sitepoint.com/3-strange-php-facts-you-may-not-know/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-11-19
+-
+   title: Discovering the High Resolution Time API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Performance
+      - SitePoint
+   url: https://www.sitepoint.com/discovering-the-high-resolution-time-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-11-19
+-
+   title: Introduction to Page Visibility API
+   tags:
+      - HTML5-API
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/introduction-to-page-visibility-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-11-23
+-
+   title: Build Lists and Popups in Minutes Using jQuery Mobile
+   tags:
+      - jQuery-Mobile
+      - Mobile
+      - SitePoint
+   url: https://www.sitepoint.com/working-with-jquery-mobile-1-2-0/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-11-27
+-
+   title: Sending Email with Swift Mailer
+   tags:
+      - PHP
+      - SitePoint
+   url: https://www.sitepoint.com/sending-email-with-swift-mailer/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-12-03
+-
+   title: Build a Location-Based Mobile App With HTML5 and JavaScript (Series)
+   tags:
+      - JavaScript
+      - jQuery-Mobile
+      - PhoneGap
+      - HTML5-API
+      - Geolocation
+      - Mobile
+      - SitePoint
+   url: https://www.sitepoint.com/series/build-a-location-based-mobile-app-with-html5-and-JavaScript/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-12-12
+-
+   title: Working with Geolocation and the Google Maps API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Geolocation
+      - Google-maps
+      - SitePoint
+   url: https://www.sitepoint.com/working-with-geolocation-and-google-maps-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-12-21
+-
+   title: What's New in Zend Framework 2
+   tags:
+      - PHP
+      - Zend-Framework
+      - SitePoint
+   url: https://www.sitepoint.com/whats-new-in-zend-framework-2/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-12-24
+-
+   title: Getting Directions Using the Google Maps API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Geolocation
+      - Google-maps
+      - SitePoint
+   url: https://www.sitepoint.com/find-a-route-using-the-geolocation-and-the-google-maps-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2012-12-28
+-
+   title: Creating a Polyline Using Geolocation and the Google Maps API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Geolocation
+      - Google-maps
+      - SitePoint
+   url: https://www.sitepoint.com/create-a-polyline-using-the-geolocation-and-the-google-maps-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2013-01-04
+-
+   title: Customize Your jQuery Mobile Interface with Specialized Plugins
+   tags:
+      - JavaScript
+      - jQuery-Mobile
+      - jQuery
+      - Plugin
+      - Mobile
+      - SitePoint
+   url: https://www.sitepoint.com/how-to-change-texts-in-your-jquery-mobile-apps-without-breaking-widgets/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2013-01-11
+-
+   title: Creating a Flashing Text Effect with jQuery
+   tags:
+      - JavaScript
+      - jQuery
+      - Plugin
+      - SitePoint
+   url: https://www.sitepoint.com/creating-a-flashing-text-effect-with-jquery/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2013-01-16
+-
+   title: Working with Cookies in jQuery
+   tags:
+      - JavaScript
+      - jQuery
+      - Plugin
+      - SitePoint
+   url: https://www.sitepoint.com/eat-those-cookies-with-jquery/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2013-01-21
+-
+   title: What to Expect From jQuery Mobile 1.3.0
+   tags:
+      - jQuery-Mobile
+      - Mobile
+      - SitePoint
+   url: https://www.sitepoint.com/what-to-expect-from-jquery-mobile-1-3-0/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2013-01-25
+-
+   title: Build a Currency Converter with jQuery Mobile and Cordova (Series)
+   tags:
+      - JavaScript
+      - jQuery-Mobile
+      - PhoneGap
+      - HTML5-API
+      - Mobile
+      - SitePoint
+   url: https://www.sitepoint.com/series/build-a-currency-converter-with-jquery-mobile-and-cordova/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2013-02-07
+-
+   title: Extract an Excerpt from a WAV File
+   tags:
+      - PHP
+      - SitePoint
+   url: https://www.sitepoint.com/extract-an-exceprt-from-a-wav-file/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2013-02-13
+-
+   title: Five PHP Functions That Would be Great in JavaScript
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/five-php-functions-id-love-to-see-in-JavaScript/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2013-02-22
+-
+   title: 4 reasons you should create a WordPress theme
+   tags:
+      - WordPress
+      - ModernWeb
+   url: http://modernweb.com/2013/03/29/wordpress-theme/
+   publisher: ModernWeb
+   publisherUrl:  https://modernweb.com
+   date: 2013-03-29
+-
+   title: How to create an advanced HTML5 placeholder polyfill
+   tags:
+      - HTML5
+      - JavaScript
+      - jQuery
+      - Plugin
+      - Polyfill
+      - ModernWeb
+   url: http://modernweb.com/2013/04/15/advanced-placeholder-polyfill/
+   publisher: ModernWeb
+   publisherUrl:  https://modernweb.com
+   date: 2013-04-15
+-
+   title: Build an AudioPlayer with PhoneGap (Series)
+   tags:
+      - JavaScript
+      - jQuery-Mobile
+      - PhoneGap
+      - HTML5-API
+      - Mobile
+      - TutsPlus
+   url: http://code.tutsplus.com/tutorials/build-an-audioplayer-with-phonegap-application-setup--mobile-16347
+   publisher: TutsPlus
+   publisherUrl:  https://tutsplus.com
+   date: 2013-04-24
+-
+   title: |
+      phpDay 2013: News and Highlights
+   tags:
+      - PHP
+      - SitePoint
+   url: https://www.sitepoint.com/phpday-2013-news-and-highlights/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2013-05-27
+-
+   title: |
+      Pure: What, Why, & How?
+   tags:
+      - CSS
+      - Web-Design
+      - Mobile
+      - TutsPlus
+   url: http://code.tutsplus.com/tutorials/pure-what-why-how--net-33320
+   publisher: TutsPlus
+   publisherUrl:  https://tutsplus.com
+   date: 2013-07-18
+-
+   title: Branching out with Twig
+   tags:
+      - PHP
+      - Framework
+      - Web-&-PHP-Magazine
+   url: https://entwickler.de/webandphp/branching-out-with-twig-125722.html
+   publisher: Web & PHP Magazine
+   publisherUrl:  http://webandphp.com
+   date: 2013-10-01
+-
+   title: |
+      PhoneGap: Build a Feed Reader (Series)
+   tags:
+      - JavaScript
+      - jQuery-Mobile
+      - PhoneGap
+      - HTML5-API
+      - Mobile
+      - TutsPlus
+   url: http://code.tutsplus.com/tutorials/phonegap-build-a-feed-reader-project-structure--mobile-20265
+   publisher: TutsPlus
+   publisherUrl:  https://tutsplus.com
+   date: 2013-10-10
+-
+   title: Discovering the User Timing API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Performance
+      - SitePoint
+   url: https://www.sitepoint.com/discovering-user-timing-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2013-12-11
+-
+   title: An Introduction to the getUserMedia API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - SitePoint
+   url: https://www.sitepoint.com/introduction-getusermedia-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-01-02
+-
+   title: Managing Custom Data with the HTML5 Dataset API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - SitePoint
+   url: https://www.sitepoint.com/managing-custom-data-html5-dataset-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-01-10
+-
+   title: 10 HTML Tags You May Not Be Using
+   tags:
+      - HTML5
+      - Semantic-Web
+      - SitePoint
+   url: https://www.sitepoint.com/10-html-tags-not-using/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-01-16
+-
+   title: Better Responsive Images With the picture Element
+   tags:
+      - HTML5
+      - Web-Design
+      - Responsive-Web-Design
+      - TutsPlus
+   url: http://code.tutsplus.com/tutorials/better-responsive-images-with-the-picture-element--net-36583
+   publisher: TutsPlus
+   publisherUrl:  https://tutsplus.com
+   date: 2014-01-17
+-
+   title: Exploring the classList API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - SitePoint
+   url: https://www.sitepoint.com/exploring-classlist-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-01-20
+-
+   title: Managing Gettext Translations on Shared Hosting
+   tags:
+      - PHP
+      - i18n
+      - SitePoint
+   url: https://www.sitepoint.com/managing-gettext-translations-shared-hosting/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-02-10
+-
+   title: Introducing the Web Speech API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - SitePoint
+   url: https://www.sitepoint.com/introducing-web-speech-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-02-14
+-
+   title: 10 HTML5 APIs Worth Looking Into
+   tags:
+      - HTML
+      - HTML5-API
+      - SitePoint
+   url: https://www.sitepoint.com/10-html5-apis-worth-looking/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-02-19
+-
+   title: |
+      HTML5: Battery Status API
+   tags:
+      - HTML
+      - HTML5-API
+      - Mobile
+      - TutsPlus
+   url: http://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795
+   publisher: TutsPlus
+   publisherUrl:  https://tutsplus.com
+   date: 2014-02-26
+-
+   title: Talking Web Pages and the Speech Synthesis API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - SitePoint
+   url: https://www.sitepoint.com/talking-web-pages-and-the-speech-synthesis-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-03-03
+-
+   title: |
+      HTML5: Vibration API
+   tags:
+      - HTML
+      - HTML5-API
+      - Mobile
+      - TutsPlus
+   url: http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585
+   publisher: TutsPlus
+   publisherUrl:  https://tutsplus.com
+   date: 2014-03-10
+-
+   title: An Introduction to the Web Notifications API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Mobile
+      - SitePoint
+   url: https://www.sitepoint.com/introduction-web-notifications-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-04-22
+-
+   title: An Introduction to the Geolocation API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - TutsPlus
+   url: http://code.tutsplus.com/tutorials/an-introduction-to-the-geolocation-api--cms-20071
+   publisher: TutsPlus
+   publisherUrl:  https://tutsplus.com
+   date: 2014-04-28
+-
+   title: An Introduction to the Device Orientation API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Mobile
+      - TutsPlus
+   url: http://code.tutsplus.com/tutorials/an-introduction-to-the-device-orientation-api--cms-21067
+   publisher: TutsPlus
+   publisherUrl:  https://tutsplus.com
+   date: 2014-05-21
+-
+   title: Introduction to the Ambient Light API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Mobile
+      - ModernWeb
+   url: http://modernweb.com/2014/05/27/introduction-to-the-ambient-light-api/
+   publisher: ModernWeb
+   publisherUrl:  https://modernweb.com
+   date: 2014-05-27
+-
+   title: Introducing the Proximity API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Mobile
+      - SitePoint
+   url: https://www.sitepoint.com/introducing-proximity-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-05-29
+-
+   title: 5 Things I've Learned About Accessibility
+   tags:
+      - HTML
+      - Accessibility
+      - SitePoint
+   url: https://www.sitepoint.com/5-things-learned-accessibility/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-06-04
+-
+   title: 5 Grunt Tasks You Won't Want to Miss!
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/five-grunt-tasks-wont-want-miss/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-06-04
+-
+   title: Easily Improving jQuery Animations
+   tags:
+      - JavaScript
+      - jQuery
+      - CSS
+      - Animations
+      - SitePoint
+   url: https://www.sitepoint.com/easily-improving-jquery-animations/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-06-23
+-
+   title: A Guide to the jQuery animate() Method
+   tags:
+      - JavaScript
+      - jQuery
+      - Animations
+      - SitePoint
+   url: https://www.sitepoint.com/guide-jquery-animate-method/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-07-08
+-
+   title: Introduction to the Resource Timing API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Performance
+      - SitePoint
+   url: https://www.sitepoint.com/introduction-resource-timing-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-07-22
+-
+   title: 5 JavaScript APIs to Empower Your Mobile Web Pages
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Mobile
+      - SitePoint
+   url: https://www.sitepoint.com/5-JavaScript-apis-empower-mobile-web-pages/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-07-24
+-
+   title: 3 New JavaScript APIs You May Want to Follow
+   tags:
+      - JavaScript
+      - HTML5-API
+      - SitePoint
+   url: https://www.sitepoint.com/3-new-JavaScript-apis-may-want-follow/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-07-28
+-
+   title: 5 Little Known Details About jQuery Methods
+   tags:
+      - JavaScript
+      - jQuery
+      - SitePoint
+   url: https://www.sitepoint.com/5-little-known-details-jquery-methods/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-08-04
+-
+   title: |
+      HTML5: Network Information API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Mobile
+      - TutsPlus
+   url: http://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598
+   publisher: TutsPlus
+   publisherUrl:  https://tutsplus.com
+   date: 2014-08-08
+-
+   title: Getting Started with QUnit
+   tags:
+      - JavaScript
+      - QUnit
+      - Testing
+      - SitePoint
+   url: https://www.sitepoint.com/getting-started-qunit/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-08-13
+-
+   title: |
+      CSS "position: sticky" – Introduction and Polyfills
+   tags:
+      - CSS
+      - SitePoint
+   url: https://www.sitepoint.com/css-position-sticky-introduction-polyfills/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-08-14
+-
+   title: How to Test Your Site Locally with Modern.IE
+   tags:
+      - Testing
+      - SitePoint
+   url: https://www.sitepoint.com/test-site-locally-modern-ie/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-08-19
+-
+   title: An Introduction to jQuery's Shorthand Ajax Methods
+   tags:
+      - JavaScript
+      - jQuery
+      - SitePoint
+   url: https://www.sitepoint.com/introduction-jquery-shorthand-ajax-methods/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-08-20
+-
+   title: A Modern Front End Through the Eyes of a PHP Developer
+   tags:
+      - PHP
+      - JavaScript
+      - HTML
+      - CSS
+      - Workflow
+      - PHP-Architect
+   url: https://www.phparch.com/magazine/2014-2/august/
+   publisher: php[architect]
+   publisherUrl:  https://www.phparch.com/
+   date: 2014-08-22
+-
+   title: How to Use jQuery's $.ajax() Function
+   tags:
+      - JavaScript
+      - jQuery
+      - SitePoint
+   url: https://www.sitepoint.com/use-jquerys-ajax-function/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-08-26
+-
+   title: 5 Grunt Tasks that Improve the Performance of Your Website
+   tags:
+      - JavaScript
+      - Performance
+      - SitePoint
+   url: https://www.sitepoint.com/5-grunt-tasks-improve-performance-website/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-08-27
+-
+   title: How to Test Asynchronous Code with QUnit
+   tags:
+      - JavaScript
+      - QUnit
+      - Testing
+      - SitePoint
+   url: https://www.sitepoint.com/test-asynchronous-code-qunit/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-09-01
+-
+   title: |
+      QUnit Advanced Concepts: Modules and uration
+   tags:
+      - JavaScript
+      - QUnit
+      - Testing
+      - SitePoint
+   url: https://www.sitepoint.com/qunit-advanced-concepts-modules-uration/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-09-04
+-
+   title: Creating Nice Notifications with jQuery
+   tags:
+      - JavaScript
+      - jQuery
+      - Plugin
+      - SitePoint
+   url: https://www.sitepoint.com/creating-nice-notifications-jquery/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-09-08
+-
+   title: Introducing the Screen Orientation API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - SitePoint
+   url: https://www.sitepoint.com/introducing-screen-orientation-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-09-11
+-
+   title: Creating Autocomplete datalist Controls
+   tags:
+      - HTML5
+      - SitePoint
+   url: https://www.sitepoint.com/creating-autocomplete-datalist-controls/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-09-15
+-
+   title: A Guide to the HTML5 'time' Element
+   tags:
+      - HTML5
+      - SitePoint
+   url: https://www.sitepoint.com/html5-time-element-guide/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-09-16
+-
+   title: 5 Typical JavaScript Interview Exercises
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/5-typical-JavaScript-interview-exercises/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-09-18
+-
+   title: |
+      Preparing for ECMAScript 6: New Array Methods
+   tags:
+      - JavaScript
+      - ECMAScript-2015
+      - SitePoint
+   url: https://www.sitepoint.com/preparing-ecmascript-6-new-array-methods/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-09-22
+-
+   title: Creating a Folded Paper Effect with OriDomi
+   tags:
+      - JavaScript
+      - jQuery
+      - Plugin
+      - SitePoint
+   url: https://www.sitepoint.com/creating-folded-paper-effect-oridomi/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-09-24
+-
+   title: |
+      Preparing for ECMAScript 6: New String Methods
+   tags:
+      - JavaScript
+      - ECMAScript-2015
+      - SitePoint
+   url: https://www.sitepoint.com/preparing-ecmascript-6-new-string-methods/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-09-29
+-
+   title: |
+      Preparing for ECMAScript 6: Map and WeakMap
+   tags:
+      - JavaScript
+      - ECMAScript-2015
+      - SitePoint
+   url: https://www.sitepoint.com/preparing-ecmascript-6-map-weakmap/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-10-01
+-
+   title: 5 More JavaScript Interview Exercises
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/5-JavaScript-interview-exercises/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-10-06
+-
+   title: |
+      Preparing for ECMAScript 6: Set and WeakSet
+   tags:
+      - JavaScript
+      - ECMAScript-2015
+      - SitePoint
+   url: https://www.sitepoint.com/preparing-ecmascript-6-set-weakset/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-10-13
+-
+   title: Improving Site Performance with the Navigation Timing API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Performance
+      - Telerik
+   url: https://developer.telerik.com/featured/introduction-navigation-timing-api/
+   publisher: Telerik Developer Network
+   publisherUrl:  https://developer.telerik.com
+   date: 2014-10-14
+-
+   title: |
+      Preparing for ECMAScript 6: New Number Methods
+   tags:
+      - JavaScript
+      - ECMAScript-2015
+      - SitePoint
+   url: https://www.sitepoint.com/preparing-ecmascript-6-new-number-methods/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-10-20
+-
+   title: Saving Bandwidth on Slow Connections with Saveba.js
+   tags:
+      - JavaScript
+      - Performance
+      - SitePoint
+   url: https://www.sitepoint.com/saving-bandwidth-slow-connections-saveba-js/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-10-22
+-
+   title: |
+      Preparing for ECMAScript 6: New Function Syntax
+   tags:
+      - JavaScript
+      - ECMAScript-2015
+      - SitePoint
+   url: https://www.sitepoint.com/preparing-ecmascript-6-new-function-syntax/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-10-27
+-
+   title: The Screen Orientation API Reloaded
+   tags:
+      - JavaScript
+      - HTML5-API
+      - SitePoint
+   url: https://www.sitepoint.com/screen-orientation-api-reloaded/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-11-03
+-
+   title: An Introduction to Parallax Scrolling Using Stellar.js
+   tags:
+      - JavaScript
+      - Effects
+      - SitePoint
+   url: https://www.sitepoint.com/introduction-parallax-scrolling-using-stellar-js/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-11-10
+-
+   title: |
+      Preparing for ECMAScript 6: let and const
+   tags:
+      - JavaScript
+      - ECMAScript-2015
+      - SitePoint
+   url: https://www.sitepoint.com/preparing-ecmascript-6-let-const/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-11-12
+-
+   title: 5 Obsolete Features in HTML5
+   tags:
+      - HTML5
+      - SitePoint
+   url: https://www.sitepoint.com/5-obsolete-features-html5/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-11-12
+-
+   title: Experimenting with the Web Speech API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - SitePoint
+   url: https://www.sitepoint.com/experimenting-web-speech-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-11-18
+-
+   title: Revealing Elements with scrollReveal.js
+   tags:
+      - JavaScript
+      - Effects
+      - SitePoint
+   url: https://www.sitepoint.com/revealing-elements-scrollreveal-js/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-11-24
+-
+   title: 10 Typical HTML Interview Exercises
+   tags:
+      - HTML
+      - SitePoint
+   url: https://www.sitepoint.com/10-typical-html-interview-exercises/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-11-25
+-
+   title: Creating Nice Alerts with sweetAlert
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/creating-nice-alerts-sweetalert/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-12-03
+-
+   title: Sorting Tables with Tablesorter
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/sorting-tables-tablesorter/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-12-08
+-
+   title: Polyfilling Doesn't Have to be Difficult
+   tags:
+      - JavaScript
+      - HTML5
+      - Telerik
+   url: https://developer.telerik.com/featured/introduction-navigation-timing-api/
+   publisher: Telerik Developer Network
+   publisherUrl:  https://developer.telerik.com
+   date: 2014-12-10
+-
+   title: How to Accessibly Rotate Contents with jQuery
+   tags:
+      - JavaScript
+      - jQuery
+      - Effects
+      - SitePoint
+   url: https://www.sitepoint.com/accessibly-rotate-contents-jquery/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2014-12-16
+-
+   title: W3C vs. WHATWG HTML5 Specs – The Differences Documented
+   tags:
+      - HTML5
+      - Telerik
+   url: https://developer.telerik.com/featured/w3c-vs-whatwg-html5-specs-differences-documented/
+   publisher: Telerik Developer Network
+   publisherUrl:  https://developer.telerik.com
+   date: 2014-12-29
+-
+   title: Creating Beautiful Charts with Chart.js
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/creating-beautiful-charts-chart-js/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2015-01-07
+-
+   title: What’s New in QUnit 1.16
+   tags:
+      - JavaScript
+      - QUnit
+      - Testing
+      - SitePoint
+   url: https://www.sitepoint.com/whats-new-qunit-1-16/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2015-01-12
+-
+   title: Auto-filling Forms with jQuery and the Web Storage API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - jQuery
+      - SitePoint
+   url: https://www.sitepoint.com/auto-filling-forms-jquery-web-storage-api/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2015-01-19
+-
+   title: 5 Mistakes Job Interviewers Make
+   tags:
+      - Job
+      - SitePoint
+   url: https://www.sitepoint.com/mistakes-job-interviewers-make/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2015-01-20
+-
+   title: 5 Mistakes Job Candidates Make
+   tags:
+      - Job
+      - SitePoint
+   url: https://www.sitepoint.com/5-mistakes-job-candidates-make/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2015-01-23
+-
+   title: Speed Up Your Workflow with Bower
+   tags:
+      - Workflow
+      - Netorials
+   url: https://web.archive.org/web/20150317000426/http://www.netorials.com/tutorials/speed-up-your-workflow-with-bower/
+   publisher: Netorials
+   publisherUrl:  http://www.netorials.com
+   date: 2015-01-25
+-
+   title: Improving Your Site with a Font Loader
+   tags:
+      - JavaScript
+      - Performance
+      - Telerik
+   url: https://developer.telerik.com/featured/improving-site-font-loader/
+   publisher: Telerik Developer Network
+   publisherUrl:  https://developer.telerik.com
+   date: 2015-02-12
+-
+   title: Creating an Image Gallery with the Flickr API — Requirements and  Markup
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/creating-image-gallery-using-flickr-api-requirements-markup/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2015-02-16
+-
+   title: Creating an Image Gallery with the Flickr API — Style and Logic
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/creating-image-gallery-flickr-api-style-logic/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2015-02-19
+-
+   title: How to Create Nice HTML Presentations Using Reveal.js
+   tags:
+      - HTML
+      - JavaScript
+      - Netorials
+   url: https://web.archive.org/web/20150315000711/http://www.netorials.com/tutorials/how-to-create-nice-html-presentations-using-reveal-js/
+   publisher: Netorials
+   publisherUrl:  http://www.netorials.com
+   date: 2015-02-19
+-
+   title: Page Visibility
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Net-Magazine
+   url: http://www.creativebloq.com/web-design/get-crash-course-motion-design-latest-issue-net-mag-21514216
+   publisher: Net Magazine
+   publisherUrl:  http://www.creativebloq.com/net-magazine
+   date: 2015-02-19
+-
+   title: 3 JavaScript Libraries to Keep an Eye on in 2015
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/3-JavaScript-libraries-keep-eye-2015/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2015-02-23
+-
+   title: An Introduction to Grunt
+   tags:
+      - Workflow
+      - Netorials
+   url: https://web.archive.org/web/20150315010513/http://www.netorials.com/tutorials/an-introduction-to-grunt/
+   publisher: Netorials
+   publisherUrl:  http://www.netorials.com
+   date: 2015-02-24
+-
+   title: Isomorphic JavaScript Applications — the Future of the Web?
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/isomorphic-JavaScript-applications/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2015-02-25
+-
+   title: Introduction to the React JavaScript Library
+   tags:
+      - JavaScript
+      - React
+      - Telerik
+   url: https://developer.telerik.com/featured/introduction-to-the-react-JavaScript-framework/
+   publisher: Telerik Developer Network
+   publisherUrl:  https://developer.telerik.com
+   date: 2015-02-25
+-
+   title: Managing Dates and Times Using Moment.js
+   tags:
+      - JavaScript
+      - Netorials
+   url: https://web.archive.org/web/20150315023410/http://www.netorials.com/tutorials/managing-dates-and-times-using-moment-js/
+   publisher: Netorials
+   publisherUrl:  http://www.netorials.com
+   date: 2015-03-05
+-
+   title: Creating a Simple Audio Player with SoundManager 2
+   tags:
+      - JavaScript
+      - SitePoint
+   url: https://www.sitepoint.com/creating-audio-player-soundmanager/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2015-03-11
+-
+   title: Building a Mobile JavaScript Powered Audio Player
+   tags:
+      - JavaScript
+      - HTML5-API
+      - HTML5
+      - SitePoint
+   url: https://www.sitepoint.com/building-mobile-JavaScript-powered-audio-player/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2015-03-17
+-
+   title: Creating Offline Websites with the HTML5 Application Cache
+   tags:
+      - JavaScript
+      - HTML5
+      - Performance
+      - Netorials
+   url: https://web.archive.org/web/20150430231339/http://www.netorials.com/tutorials/creating-offline-websites-with-the-html5-application-cache/
+   publisher: Netorials
+   publisherUrl:  http://www.netorials.com
+   date: 2015-03-18
+-
+   title: Battery API
+   tags:
+      - JavaScript
+      - HTML5-API
+      - Net-Magazine
+   url: http://www.creativebloq.com/netmag/issue-272-81516314
+   publisher: Net Magazine
+   publisherUrl:  http://www.creativebloq.com/net-magazine
+   date: 2015-09-03
+-
+   title: What's New in jQuery 3
+   tags:
+      - JavaScript
+      - jQuery
+      - Telerik
+   url: https://developer.telerik.com/featured/whats-new-in-jquery-3/
+   publisher: Telerik Developer Network
+   publisherUrl:  https://developer.telerik.com
+   date: 2016-03-02
+-
+   title: An Introduction to jQuery's Deferred Objects
+   tags:
+      - JavaScript
+      - jQuery
+      - Deferred
+      - SitePoint
+   url: https://www.sitepoint.com/introduction-jquery-deferred-objects/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2016-03-16
+-
+   title: Easier Web Application Debugging with the Command Line API
+   tags:
+      - JavaScript
+      - Debugging
+      - Telerik
+   url: https://developer.telerik.com/featured/easier-web-application-debugging-command-line-api/
+   publisher: Telerik Developer Network
+   publisherUrl:  https://developer.telerik.com
+   date: 2016-05-17
+-
+   title: Improving the Quality of Front End Projects, Automatically!
+   tags:
+      - HTML
+      - CSS
+      - Sass
+      - JavaScript
+      - Accessibility
+      - Grunt
+      - Automation
+      - Telerik
+   url: https://developer.telerik.com/featured/improving-quality-front-end-projects-automatically-pt-1-html/
+   publisher: Telerik Developer Network
+   publisherUrl:  https://developer.telerik.com
+   date: 2016-06-15
+-
+   title: How to Implement Internationalization (i18n) in JavaScript
+   tags:
+      - JavaScript
+      - i18n
+      - l10n
+      - Globalize
+      - SitePoint
+   url: https://www.sitepoint.com/how-to-implement-internationalization-i18n-inJjavSscript/
+   publisher: SitePoint
+   publisherUrl:  https://www.sitepoint.com
+   date: 2016-08-01

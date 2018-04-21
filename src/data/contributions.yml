@@ -1,0 +1,30 @@
+-
+   url: https://jquery.com/
+   name: jQuery
+   description:
+      As a member of the [jQuery team](https://jquery.org/team/), I've made several improvements to the jQuery documentation by adding and updating content, and fixing issues.
+-
+   url: https://gruntjs.com/
+   name: Grunt
+   description: |
+      I've made a lot of improvements to the documentation and helped the team with issues in other repositories related to the main library. Due to my work, I've been [publicly thanked for my contribution to the Grunt project](http://gruntjs.com/blog/2016-04-04-grunt-1.0.0-released).
+-
+   url: https://caniuse.com/
+   name: Can I Use
+   description: |
+      I'm among the most active contributors of the project. Over the time I've added several JavaScript APIs, reported cross-browser incompatibilities and issues, and improved the references.
+-
+   url: https://github.com/github-tools/github
+   name: Github.js
+   description: |
+      As a maintainer, I've added many new features, fixed bugs, and made several improvements to the documentation.
+-
+   url: https://purecss.io/
+   name: PureCSS
+   description: |
+      I've fixed several bugs, improved the documentation and made several proposal to enhance the library. I was also [publicly thanked for my contribution to the PureCSS project](https://www.youtube.com/watch?v=6GZPLhoupAk&t=22m10s).
+-
+   url: https://github.com/digital-detox/web-reader
+   name: WebReader
+   description: |
+      I'm the main author behind WebReader, a free and open source JavaScript library that relies on the Web Speech API to offer speech recognition and speech synthesis functionality.

@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: audero.it
+Token: 6f7ce2f888c3da916e22e1d1d31605b1b69eaa2365aff551f695efcf7f7bbe62

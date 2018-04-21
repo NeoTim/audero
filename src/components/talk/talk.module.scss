@@ -1,0 +1,34 @@
+@import 'node_modules/bootstrap/scss/functions';
+@import 'node_modules/bootstrap/scss/variables';
+@import 'node_modules/bootstrap/scss/mixins/breakpoints';
+.talk {
+   position: relative;
+   counter-increment: talk;
+}
+
+.talkTitle {
+   &:before {
+      @include media-breakpoint-up(md) {
+         align-items: center;
+         background: $gray-200;
+         border-radius: 50%;
+         border: .05em solid rgba(0, 0, 0, .05);
+         color: $gray-400;
+         content: counter(talk);
+         display: flex;
+         font: italic bold 2em Verdana, Geneva, sans-serif;
+         height: 2em;
+         justify-content: center;
+         left: -2.5em;
+         position: absolute;
+         transition: all .2s ease-out;
+         width: 2em;
+      }
+   }
+}
+
+.talk:hover .talkTitle:before {
+   background: $yellow;
+   border: .15em solid rgba(0, 0, 0, .08);
+   color: $gray-900;
+}

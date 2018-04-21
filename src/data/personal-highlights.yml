@@ -1,0 +1,20 @@
+-
+   icon: writing
+   title: Writing
+   description: |
+      I've written [jQuery in Action, third edition](https://www.manning.com/books/jquery-in-action-third-edition) and [Instant jQuery Selectors](https://www.packtpub.com/web-development/instant-jquery-selectors-instant). I've also authored some academic papers and more than 100 articles.
+-
+   icon: project
+   title: Projects
+   description: |
+      I collaborate in open source projects like [jQuery](https://jquery.com/), [Grunt](https://gruntjs.com/), [CanIUse](https://caniuse.com/), and [Github.js](https://github.com/github-tools/github). I also work on [my own projects](/projects). Find more on [GitHub](https://github.com/aurelioderosa).
+-
+   icon: speaking
+   title: Speaking
+   description: |
+      I love giving [talks](/speaking) at national and international conferences. You can find my slides on [SpeakerDeck](https://speakerdeck.com/aurelioderosa/).
+-
+   icon: achievement
+   title: Achievements
+   description: |
+      I'm the first Italian to be part of the [jQuery team](https://jquery.org/team/). I've also started a thing called Facebook Universities tours.

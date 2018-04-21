@@ -1,0 +1,66 @@
+@import '../../layouts/main';
+@import 'node_modules/bootstrap/scss/forms';
+@import 'node_modules/bootstrap/scss/list-group';
+.react-tagsinput {
+   @extend .form-control;
+}
+
+.react-tagsinput--focused {
+   // Copied from @mixin form-control-focus()
+   color: $input-focus-color;
+   background-color: $input-focus-bg;
+   border-color: $input-focus-border-color;
+   outline: 0;
+   box-shadow: $input-box-shadow, $input-focus-box-shadow;
+}
+
+.react-tagsinput-remove {
+   @extend .font-weight-bold;
+   cursor: pointer;
+}
+
+.react-tagsinput-tag {
+   @extend .btn;
+   @extend .btn-sm;
+   @extend .btn-outline-primary;
+   @extend .mb-2;
+   @extend .mb-sm-0;
+   @extend .mr-sm-2;
+   @extend .py-md-0;
+   a:before {
+      content: ' ×';
+   }
+}
+
+.react-tagsinput-input {
+   @extend .bg-transparent;
+   @extend .border-0;
+   min-width: 130px;
+   width: 100%;
+}
+
+.container {
+   @extend .m-0;
+   @extend .p-0;
+}
+
+.suggestionsContainer {
+   position: relative;
+   z-index: 2;
+}
+
+.suggestionsList {
+   @extend .list-group;
+   @extend .w-100;
+   position: absolute;
+}
+
+.suggestion {
+   @extend .list-group-item;
+   @extend .list-group-item-action;
+   cursor: pointer;
+}
+
+.suggestionHighlighted {
+   @extend .active;
+}

@@ -1,0 +1,36 @@
+-
+   url: https://github.com/AurelioDeRosa/HTML5-API-demos
+   name: HTML5 API demos
+   description: |
+      HTML5 API demos is a repository where you can find information about many JavaScript and HTML5 APIs.
+   date: 2014-03-04
+-
+   url: https://github.com/AurelioDeRosa/Saveba.js
+   name: Saveba.js
+   description: |
+      Saveba.js is a JavaScript library that, relying on the Network Information API, tries to save bandwidth to users having a slow connection by removing unnecessary resources.
+   date: 2014-10-13
+-
+   url: https://github.com/AurelioDeRosa/audero-sticky
+   name: Audero Sticky
+   description: |
+      Audero Sticky is a polyfill for the CSS position: sticky with no dependencies and support for multiple module systems.
+   date: 2016-01-18
+-
+   url: https://github.com/joindin/JoindIn.js
+   name: JoindIn.js
+   description: |
+      JoindIn.js is the official JavaScript library to embed Joind.in comments, talks, and more.
+   date: 2014-08-03
+-
+   url: https://github.com/AurelioDeRosa/Audero-Wav-Extractor
+   name: Audero Wav Extractor
+   description: |
+      Audero Wav Extractor is a PHP library that allows to extract a chunk from a wav file. The extracted chunk can be saved on the harddisk, can be forced to be prompted as download by the user's browser or returned as a string for a later processing.
+   date: 2011-12-23
+-
+   url: https://confagenda.audero.it/
+   name: ConfAgenda
+   description: |
+      The fast and small web application created to allow conferences attendees to easily navigate through the conference information and mark the talks of interest to create their own, personalized track.
+   date: 2015-02-10

@@ -1,0 +1,42 @@
+-
+   cover: jquery-in-action-third-edition-cover.png
+   url: https://www.manning.com/books/jquery-in-action-third-edition
+   freeChapterUrl: https://manning-content.s3.amazonaws.com/download/4/7205cce-afdc-4d67-bb92-764e225fbeb2/Sample_Ch_01.pdf
+   buyUrl: http://www.amazon.com/jQuery-Action-Bear-Bibeault/dp/1617292079/
+   title: jQuery in Action, third edition
+   description: |
+      jQuery in Action, third edition, is a fast-paced complete guide to jQuery focused on the tasks you'll face in nearly any web dev project. Written for readers with minimal JavaScript experience, this revised edition adds new examples and exercises, along with the deep and practical coverage you expect from an In Action book.
+   author: Bear Bibeault, Yehuda Katz, Aurelio De Rosa
+   publisher: Manning
+   language: English
+   pages: 504
+   published: 2015-08-01
+   ISBN: 978-1617292071
+-
+   cover: ecmascript-2015-a-sitepoint-anthology-cover.png
+   url: https://www.sitepoint.com/premium/books/ecmascript-2015-a-sitepoint-anthology
+   buyUrl: https://www.sitepoint.com/premium/books/ecmascript-2015-a-sitepoint-anthology
+   title: |
+      ECMAScript 2015: A SitePoint Anthology
+   description: |
+      ECMAScript 2015: A SitePoint Anthology is a collection of the most useful and interesting articles on ECMAScript 2015 (a.k.a ES6) recently published on SitePoint, plus an exclusive article from everyone's favorite developer evangelist, none other than Microsoft's Christian Heilmann.
+   author: Vv.Aa.
+   publisher: SitePoint Pty. Ltd.
+   language: English
+   pages: 155
+   published: 2016-02-01
+   ISBN:
+-
+   cover: instant-jquery-selectors-cover.jpg
+   url: https://www.packtpub.com/web-development/instant-jquery-selectors-instant
+   freeChapterUrl: https://www.packtpub.com/books/content/selecting-attributes-should-know
+   buyUrl: https://www.packtpub.com/web-development/instant-jquery-selectors-instant
+   title: Instant jQuery Selectors
+   description: |
+      Instant jQuery Selectors is a practical guide that will teach you how to use jQuery's selectors efficiently in order to easily select the elements of your pages to operate upon with jQuery's methods. You will go through the most common problems that you could face while developing your project and will learn how to solve them with the help of focused examples that Instant jQuery Selectors has to offer.
+   author: Aurelio De Rosa
+   publisher: Packt Publishing
+   language: English
+   pages: 70
+   published: 2013-08-26
+   ISBN: 978-1783282210

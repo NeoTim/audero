@@ -1,6 +1,10 @@
-bower_components
+# Project dependencies
+.cache
 node_modules
-dist
-.idea
-.tmp
-app/service-worker.js
+yarn-error.log
+
+# Build directory
+/public
+
+# Blog directory
+/static/blog
