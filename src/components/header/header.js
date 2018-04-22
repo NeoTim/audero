@@ -23,14 +23,6 @@ const ITEMS = {
    '/blog/': 'Blog'
 };
 
-const renderMenuItem = ({ href, isActive, text }) => (
-   <NavItem key={href}>
-      <NavLink className="text-primary" tag={Link} to={href} active={isActive}>
-         {text}
-      </NavLink>
-   </NavItem>
-);
-
 class Header extends React.Component {
    constructor(props) {
       super(props);
@@ -50,13 +42,13 @@ class Header extends React.Component {
                      <h1 className="sr-only">{this.props.siteTitle}</h1>
                   </NavbarBrand>
                   <NavbarToggler onClick={this._toggleNavbar} className="mr-2">
-                     <span className="navbar-toggler-icon"></span>
+                     <span className="navbar-toggler-icon" />
                      <span className="sr-only">Main menu</span>
                   </NavbarToggler>
                   <Collapse isOpen={!this.state.collapsed} navbar>
                      <Nav navbar>
                         {Object.keys(ITEMS).map(href =>
-                           renderMenuItem({
+                           this._renderMenuItem({
                               href: href,
                               isActive:
                                  this.props.currentPage === withPrefix(href),
@@ -70,6 +62,28 @@ class Header extends React.Component {
          </div>
       );
    }
+
+   _renderMenuItem = ({ href, isActive, text }) => {
+      return (
+         <NavItem key={href}>
+            <NavLink
+               className="text-primary"
+               tag={Link}
+               to={href}
+               active={isActive}
+               onClick={this._resetNavbar}
+            >
+               {text}
+            </NavLink>
+         </NavItem>
+      );
+   };
+
+   _resetNavbar = () => {
+      this.setState({
+         collapsed: true
+      });
+   };
 
    _toggleNavbar = () => {
       this.setState({
