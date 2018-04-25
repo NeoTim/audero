@@ -5,7 +5,6 @@ module.exports = {
    plugins: [
       'gatsby-plugin-react-helmet',
       'gatsby-transformer-yaml',
-      'gatsby-plugin-offline',
       'gatsby-transformer-sharp',
       'gatsby-plugin-sharp',
       {
@@ -35,6 +34,7 @@ module.exports = {
             icon: 'static/images/audero-logo.png',
          },
       },
+      'gatsby-plugin-offline',
       {
          resolve: 'gatsby-plugin-sass',
          options: {
