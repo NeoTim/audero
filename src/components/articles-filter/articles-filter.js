@@ -34,8 +34,8 @@ const getAutocompleteRenderInput = tags => {
             onSuggestionSelected={(e, { suggestion }) => {
                addTag(suggestion);
             }}
-            onSuggestionsClearRequested={() => {}}
-            onSuggestionsFetchRequested={() => {}}
+            onSuggestionsClearRequested={() => { }}
+            onSuggestionsFetchRequested={() => { }}
             theme={styles}
          />
       );
@@ -48,48 +48,49 @@ const ArticlesFilter = ({
    tagsSelected,
    ...others
 }) => (
-   <form action="#" role="search" {...others}>
-      <div className="row flex-column flex-md-row align-items-md-center">
-         <div className="col-12 col-md-auto d-flex justify-content-md-end px-md-0">
-            <label
-               htmlFor="articles-filter"
-               className="mb-md-0 font-weight-bold"
-            >
-               {'Filter articles: '}
-            </label>
+      <form action="#" role="search" {...others}>
+         <div className="row flex-column flex-md-row align-items-md-center">
+            <div className="col-12 col-md-auto d-flex justify-content-md-end px-md-0">
+               <label
+                  htmlFor="articles-filter"
+                  className="mb-md-0 font-weight-bold"
+               >
+                  {'Filter articles: '}
+               </label>
+            </div>
+            <div className="col-12 col-md">
+               <TagsInput
+                  className={`${styles['react-tagsinput']}`}
+                  focusedClassName={styles['react-tagsinput--focused']}
+                  inputProps={{
+                     autoComplete: 'off',
+                     className: styles['react-tagsinput-input'],
+                     disabled: tagsSelected.length >= MAX_TAGS ? 'disabled' : '',
+                     id: 'articles-filter',
+                     name: 'q',
+                     placeholder: 'e.g. JavaScript',
+                     type: 'search'
+                  }}
+                  maxTags={MAX_TAGS}
+                  onlyUnique={true}
+                  onChange={tags => onChange(tags)}
+                  renderInput={getAutocompleteRenderInput(tagsAvailable)}
+                  renderLayout={(tagComponents, inputComponent) => (
+                     <div className="d-flex flex-column flex-sm-row">
+                        {tagComponents}
+                        {inputComponent}
+                     </div>
+                  )}
+                  tagProps={{
+                     className: styles['react-tagsinput-tag'],
+                     classNameRemove: styles['react-tagsinput-remove']
+                  }}
+                  value={tagsSelected}
+               />
+            </div>
          </div>
-         <div className="col-12 col-md">
-            <TagsInput
-               className={`${styles['react-tagsinput']}`}
-               focusedClassName={styles['react-tagsinput--focused']}
-               inputProps={{
-                  autoComplete: 'off',
-                  className: styles['react-tagsinput-input'],
-                  disabled: tagsSelected.length >= MAX_TAGS ? 'disabled' : '',
-                  name: 'q',
-                  placeholder: 'e.g. JavaScript',
-                  type: 'search'
-               }}
-               maxTags={MAX_TAGS}
-               onlyUnique={true}
-               onChange={tags => onChange(tags)}
-               renderInput={getAutocompleteRenderInput(tagsAvailable)}
-               renderLayout={(tagComponents, inputComponent) => (
-                  <div className="d-flex flex-column flex-sm-row">
-                     {tagComponents}
-                     {inputComponent}
-                  </div>
-               )}
-               tagProps={{
-                  className: styles['react-tagsinput-tag'],
-                  classNameRemove: styles['react-tagsinput-remove']
-               }}
-               value={tagsSelected}
-            />
-         </div>
-      </div>
-   </form>
-);
+      </form>
+   );
 
 ArticlesFilter.propTypes = {
    onChange: PropTypes.func.isRequired,
