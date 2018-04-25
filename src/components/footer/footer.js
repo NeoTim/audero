@@ -33,7 +33,7 @@ const renderItem = ({ name, icon, url }) => {
    return (
       <li className="list-inline-item" key={name} style={{ maxWidth: '20%' }}>
          <Link className="d-inline-block" to={url}>
-            <img className="img-fluid" src={icon} alt={name} width={64} />
+            <img className="img-fluid" src={icon} alt="" width={64} />
             <span className="sr-only">{name}</span>
          </Link>
       </li>
