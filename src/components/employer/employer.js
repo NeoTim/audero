@@ -5,7 +5,11 @@ import React from 'react';
 import styles from './employer.module.scss';
 
 const Employer = ({ logo, name, url, className, ...others }) => (
-   <Link className={`d-inline-block ${styles.employer} ${className || ''}`} to={url} {...others}>
+   <Link
+      className={`d-inline-block ${styles.employer} ${className || ''}`}
+      to={url}
+      {...others}
+   >
       <img
          src={logo}
          className={`mw-100 ${styles.employerLogo}`}
