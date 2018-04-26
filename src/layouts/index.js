@@ -17,6 +17,7 @@ const Layout = ({ children, data, location }) => (
             content="The website of Aurelio De Rosa, a full-stack Web developer, jQuery team member, author, and speaker"
          />
          <link rel="icon" href={withPrefix('/images/favicon.ico')} />
+         <link rel="apple-touch-icon" href={withPrefix('/images/audero-logo.png')} />
          <meta name="theme-color" content="#F8F9FA" />
          <meta
             name="google-site-verification"
