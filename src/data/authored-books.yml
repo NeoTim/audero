@@ -1,4 +1,17 @@
 -
+   cover: practical-es6-cover.jpg
+   url: https://www.sitepoint.com/premium/books/practical-es6
+   buyUrl: https://www.amazon.com/Practical-ES6-Aurelio-Rosa-ebook/dp/B07DGMHXX3/
+   title: Practical ES6
+   description: |
+      This book provides an introduction to many of the powerful new JavaScript language features that were introduced in ECMAScript 2015, as well as features introduced in ECMAScript 2016 and 2017. It also takes a look at the features planned for ECMAScript 2018 in this rapidly evolving language.
+   author: Vv.Aa.
+   publisher: SitePoint Pty. Ltd.
+   language: English
+   pages: 190
+   published: 2018-05-31
+   ISBN:
+-
    cover: jquery-in-action-third-edition-cover.png
    url: https://www.manning.com/books/jquery-in-action-third-edition
    freeChapterUrl: https://manning-content.s3.amazonaws.com/download/4/7205cce-afdc-4d67-bb92-764e225fbeb2/Sample_Ch_01.pdf
