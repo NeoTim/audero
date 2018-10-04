@@ -30,7 +30,7 @@
       "react-helmet": "^5.2.0",
       "react-image-gallery": "^0.8.7",
       "react-tagsinput": "^3.19.0",
-      "reactstrap": "^5.0.0"
+      "reactstrap": "^6.5.0"
    },
    "scripts": {
       "build": "gatsby build",
