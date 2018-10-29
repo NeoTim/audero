@@ -19,7 +19,7 @@
       "gatsby-link": "^1.6.41",
       "gatsby-plugin-google-analytics": "^1.0.31",
       "gatsby-plugin-manifest": "^1.0.21",
-      "gatsby-plugin-offline": "^1.0.15",
+      "gatsby-plugin-offline": "^2.0.10",
       "gatsby-plugin-react-helmet": "^2.0.11",
       "gatsby-plugin-sass": "^1.0.26",
       "gatsby-plugin-sharp": "^1.6.43",
