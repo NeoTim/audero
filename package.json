@@ -28,7 +28,7 @@
       "gatsby-transformer-yaml": "^1.5.16",
       "react-autosuggest": "^9.3.4",
       "react-helmet": "^5.2.0",
-      "react-image-gallery": "^0.8.7",
+      "react-image-gallery": "^0.8.13",
       "react-tagsinput": "^3.19.0",
       "reactstrap": "^5.0.0"
    },
